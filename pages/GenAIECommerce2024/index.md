@@ -87,8 +87,7 @@ organizers:
       excerpt: >
         **Djordje Gligorijevic**<br>
         eBay
-      bio: >
-        
+      bio: >  
 Djordje Gligorijevic is applied sciences manager at eBay, leading allocation and pricing team in eBay’s sponsored search program. Prior to eBay Djordje worked as Research Scientist in Yahoo Research. He received the Ph.D. degree from Temple University, Philadelphia, PA, in 2018. His research interests include Machine Learning, Extreme Multi-Label Classification, NLP, LLMs, and the Integration of Qualitative Knowledge into predictive models with applications in domains of Computational Healthcare, Computational Advertising, Search, Ranking, and Recommendation Systems. Djordje has published at international conferences such as AAAI, KDD, TheWebConf, SDM, CIKM, SIGIR, as well as in international journals like Data Mining and Knowledge Discovery, BigData journal where he serves as associate editor, Methods and Nature’s Scientific Reports.
 
 
@@ -98,7 +97,6 @@ Djordje Gligorijevic is applied sciences manager at eBay, leading allocation and
         **Dingxian Wang**<br>
         Upwork
       bio: >
-
 	Dingxian is a Applied Science leader with around 10 years industry experience at the intersection of machine learning, software engineering, applied science, and product development. He is passionate about applying skills to solving real-world problems, especially in the field of technology and data science. He is currently leading a team focus on the ranking, personalization and recommendation in the search area. Throughout the career, Dingxian has been involved in a wide range of areas, including search engine, query understanding, recall system, ranking system, recommender system, marketing science, personalization, information extraction, knowledge graph etc. With massive proven track records of delivering great business results, and drove hundreds of millions of dollars in GMV and revenue growth. Dingxian has received many top honors and awards ranging from top conference, journals, patents to top research projects as well as internal competition awards. Including 20+ papers on top conference and journals (one best paper candidate of CIKM 2021), 9 US patents, over 1500 citations, ICT Research Project of the Year 2021 of ACS (Australian Computer Society) and eBay Leaders’ Choice Award.
 
 
