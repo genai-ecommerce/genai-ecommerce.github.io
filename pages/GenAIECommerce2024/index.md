@@ -89,7 +89,7 @@ organizers:
         eBay
       bio: >
         
-	Djordje Gligorijevic is applied sciences manager at eBay, leading allocation and pricing team in eBay’s sponsored search program. Prior to eBay Djordje worked as Research Scientist in Yahoo Research. He received the Ph.D. degree from Temple University, Philadelphia, PA, in 2018. His research interests include Machine Learning, Extreme Multi-Label Classification, NLP, LLMs, and the Integration of Qualitative Knowledge into predictive models with applications in domains of Computational Healthcare, Computational Advertising, Search, Ranking, and Recommendation Systems. Djordje has published at international conferences such as AAAI, KDD, TheWebConf, SDM, CIKM, SIGIR, as well as in international journals like Data Mining and Knowledge Discovery, BigData journal where he serves as associate editor, Methods and Nature’s Scientific Reports.
+Djordje Gligorijevic is applied sciences manager at eBay, leading allocation and pricing team in eBay’s sponsored search program. Prior to eBay Djordje worked as Research Scientist in Yahoo Research. He received the Ph.D. degree from Temple University, Philadelphia, PA, in 2018. His research interests include Machine Learning, Extreme Multi-Label Classification, NLP, LLMs, and the Integration of Qualitative Knowledge into predictive models with applications in domains of Computational Healthcare, Computational Advertising, Search, Ranking, and Recommendation Systems. Djordje has published at international conferences such as AAAI, KDD, TheWebConf, SDM, CIKM, SIGIR, as well as in international journals like Data Mining and Knowledge Discovery, BigData journal where he serves as associate editor, Methods and Nature’s Scientific Reports.
 
 
     - image_path: /assets/images/GenAIEcommerce2024/wang.jpg
@@ -109,7 +109,7 @@ organizers:
         Amazon
       bio: >
 
-	Behzad Shahrasbi is Manager of Applied Science at Amazon. His team leads the efforts to proactively detect and prevent catalog abuse and protect brands at scale. His career also includes significant tenures at Walmart, SmartDrive Systems, and Nokia. Behzad research interests span NLP, Mulitimodal Representations, Recommender Systems, and Privacy-Preserving ML. Post completeion of his PhD, Behzad has published in several journals and conferences, including ICML, IEEE Trans. on Big Data, ICCV, and ICASP.
+Behzad Shahrasbi is Manager of Applied Science at Amazon. His team leads the efforts to proactively detect and prevent catalog abuse and protect brands at scale. His career also includes significant tenures at Walmart, SmartDrive Systems, and Nokia. Behzad research interests span NLP, Mulitimodal Representations, Recommender Systems, and Privacy-Preserving ML. Post completeion of his PhD, Behzad has published in several journals and conferences, including ICML, IEEE Trans. on Big Data, ICCV, and ICASP.
 
     - image_path: /assets/images/GenAIEcommerce2024/topojoy.png
       alt: "Topojoy Biswas"
@@ -118,7 +118,7 @@ organizers:
         Walmart Labs
       bio: >
 
-	Topojoy Biswas is Distinguished Data Scientist at Walmart Labs. At Walmart he leads efforts related to W+ membership models and creative generation projects. Prior to Walmart he worked as Principal Engineer at Yahoo Research where he worked on information extraction on text and videos in Yahoo Knowledge Graph which powers search and information organization in products in Yahoo, like Finance, Sports, entity search and browse. Before Yahoo Knowledge graphs, he worked for Yahoo shopping on attribute extraction and classification of shopping feeds into large taxonomies of products. Topojoy has published in multiple international conferences such as ICIP, ACM Multimedia etc and has spoken on applied machine learning topics in MLConf, KGC etc.
+Topojoy Biswas is Distinguished Data Scientist at Walmart Labs. At Walmart he leads efforts related to W+ membership models and creative generation projects. Prior to Walmart he worked as Principal Engineer at Yahoo Research where he worked on information extraction on text and videos in Yahoo Knowledge Graph which powers search and information organization in products in Yahoo, like Finance, Sports, entity search and browse. Before Yahoo Knowledge graphs, he worked for Yahoo shopping on attribute extraction and classification of shopping feeds into large taxonomies of products. Topojoy has published in multiple international conferences such as ICIP, ACM Multimedia etc and has spoken on applied machine learning topics in MLConf, KGC etc.
 
     - image_path: /assets/images/GenAIEcommerce2024/Evren.jpg
       alt: "Evren Korpeoglu"
@@ -127,7 +127,7 @@ organizers:
         Walmart labs
       bio: >
 
-	Evren Korpeoglu is a Director of Data Science at Personalization and Recommendations team in Walmart Global Tech. At Walmart he leads efforts related to whole page optimization, item recommendations as well as using Generative AI based models for recommendations. He completed his Ph.D. from Bikent University. He has published at international conferences like NeurIPS, ICML, SIGKDD.
+Evren Korpeoglu is a Director of Data Science at Personalization and Recommendations team in Walmart Global Tech. At Walmart he leads efforts related to whole page optimization, item recommendations as well as using Generative AI based models for recommendations. He completed his Ph.D. from Bikent University. He has published at international conferences like NeurIPS, ICML, SIGKDD.
 
     - image_path: /assets/images/GenAIEcommerce2024/marios.jpg
       alt: "Marios Savvides"
@@ -136,7 +136,7 @@ organizers:
         CMU, Ultron AI
       bio: >
  
-	Professor Marios Savvides is the Bossa Nova Robotics Professor of Artificial Intelligence at Carnegie Mellon University and is also the Founder and Director of the Biometrics Center at Carnegie Mellon University and a Full Tenured Professor in the Electrical and Computer Engineering Department. He received his Bachelor of Engineering in Microelectronics Systems Engineering from
+Professor Marios Savvides is the Bossa Nova Robotics Professor of Artificial Intelligence at Carnegie Mellon University and is also the Founder and Director of the Biometrics Center at Carnegie Mellon University and a Full Tenured Professor in the Electrical and Computer Engineering Department. He received his Bachelor of Engineering in Microelectronics Systems Engineering from
 University of Manchester Institute of Science and Technology in 1997 in the United Kingdom, his Master of Science in Robotics from the Robotics Institute in 2000 and his PhD from the Electrical and Computer Engineering department at CMU in 2004. He is on the Program Committee on several Biometric conferences, such as the IEEE BTAS, ICPR, SPIE Biometric Identification, the IEEE AutoID, and others, and has been the Organizer and the Co-Chair of the Robust Biometrics Understanding the Science and Technology Conference. His research is focused on developing core AI and machine-learning algorithms that were successfully applied for robust face detection, face recognition, and most recently, general object detection and scene understanding. He has authored and co-authored over 240 journal and conference publications, including 22 book chapters and served as the area editor of the Springer’s Encyclopedia of Biometrics. He is the recipient of seven Best Paper awards.
         
 ---
