@@ -22,8 +22,6 @@ navigation:
   - title: "Organization"
     url: /GenAIEcommerce2024#organizers
 
-keynote: 
-
 keynote:
   - image_path: /assets/images/GenAIEcommerce2024/hima.png
     alt: "Himabindu Lakkaraju"
