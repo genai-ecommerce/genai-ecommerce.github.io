@@ -73,9 +73,9 @@ keynote:
 organizers:
 
     - image_path: /assets/images/GenAIEcommerce2024/Mansi.jpg
-      alt: "Mansi Mane"
+      alt: "Mansi Mane:"
       excerpt: >
-        **Mansi Mane**<br>
+        **Mansi Mane:**<br>
         Walmart Labs
       bio: >
         Mansi Mane is Staff Data Scientist at Search and Recommendation team in Walamrt Labs. She completed her Masters from Carnegie Mellon University in 2018. She currently focuses on research and development of machine learning algorithms for recommendations, search, marketing as well as content generation. Mansi was previously Applied Scientist at AWS where she lead efforts for training of billion scale large language models from scratch. Her research interests include machine learning, multimodal LLMs pretraining, fine-tuning as well as in-context learning.
@@ -84,7 +84,7 @@ organizers:
       alt: "Djordje Gligorijevic"
       excerpt: >
         **Djordje Gligorijevic**<br>
-        eBay
+	eBay
       bio: >  
 	Djordje Gligorijevic is applied sciences manager at eBay, leading allocation and pricing team in eBay’s sponsored search program. Prior to eBay Djordje worked as Research Scientist in Yahoo Research. He received the Ph.D. degree from Temple University, Philadelphia, PA, in 2018. His research interests include Machine Learning, Extreme Multi-Label Classification, NLP, LLMs, and the Integration of Qualitative Knowledge into predictive models with applications in domains of Computational Healthcare, Computational Advertising, Search, Ranking, and Recommendation Systems. Djordje has published at international conferences such as AAAI, KDD, TheWebConf, SDM, CIKM, SIGIR, as well as in international journals like Data Mining and Knowledge Discovery, BigData journal where he serves as associate editor, Methods and Nature’s Scientific Reports.
 
