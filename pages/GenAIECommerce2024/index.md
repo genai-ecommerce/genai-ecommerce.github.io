@@ -71,8 +71,7 @@ keynote:
 
 
 organizers:
-
-    - image_path: /assets/images/GenAIEcommerce2024/Mansi.jpg
+- image_path: /assets/images/GenAIEcommerce2024/Mansi.jpg
       alt: "Mansi Mane:"
       excerpt: >
         **Mansi Mane:**<br>
