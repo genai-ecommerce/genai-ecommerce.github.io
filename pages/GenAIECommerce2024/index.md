@@ -23,7 +23,21 @@ navigation:
     url: /GenAIEcommerce2024#organizers
 
 keynote: 
-    - image_path: /assets/images/GenAIEcommerce2024/hima.png
+
+keynote:
+  - image_path: /assets/images/GenAIEcommerce2024/hima.png
+    alt: "Himabindu Lakkaraju"
+    title: "Himabindu Lakkaraju"
+    excerpt: |
+      ***Harvard University*** <br>
+      **Title of the talk: TBD**
+    abstract: >
+      Abstract.
+    bio: >
+      Himabindu (Hima) Lakkaraju is an assistant professor at Harvard University focusing on explainability, fairness, and robustness of machine learning models. She has also been working with various domain experts in policy and healthcare to understand the real-world implications of explainable and fair ML. Hima has been named as one of the world's top innovators under 35 by both MIT Tech Review and Vanity Fair. Her research has also received best paper awards at SIAM International Conference on Data Mining (SDM) and INFORMS, and grants from NSF, Google, Amazon, and Bayer. Hima has given keynote talks at various top ML conferences and workshops including CIKM, ICML, NeurIPS, AAAI, and CVPR, and her research has also been showcased by popular media outlets including the New York Times, MIT Tech Review, TIME magazine, and Forbes. More recently, she co-founded the Trustworthy ML Initiative to enable easy access to resources on trustworthy ML and to build a community of researchers, practitioners working on the topic.
+    spaces: true
+
+  - image_path: /assets/images/GenAIEcommerce2024/hima.png
       alt: "Himabindu Lakkaraju"
       title: "Himabindu Lakkaraju"
       excerpt: |
