@@ -34,91 +34,66 @@ keynote:
         Abstract.
       
       bio: >
-        Ed H. Chi is a Distinguished Scientist at Google DeepMind, leading machine learning research teams working on large language models (LaMDA/Bard), neural recommendations, and reliable machine learning. With 39 patents and ~200 research articles, he is also known for research on user behavior in web and social media.  As the Research Platform Lead, he helped launched Bard, a conversational AI experiment, and delivered significant improvements for YouTube, News, Ads, Google Play Store at Google with >660 product improvements since 2013. Prior to Google, he was Area Manager and Principal Scientist at Xerox Palo Alto Research Center's Augmented Social Cognition Group in researching how social computing systems help groups of people to remember, think and reason. Ed earned his 3 degrees (B.S., M.S., and Ph.D.) in 6.5 years from University of Minnesota. Inducted as an ACM Fellow and into the CHI Academy, he also received a 20-year Test of Time award for research in information visualization. He has been featured and quoted in the press, including the Economist, Time Magazine, LA Times, and the Associated Press.  An avid golfer, swimmer, photographer and snowboarder in his spare time, he also has a blackbelt in Taekwondo
+        Himabindu (Hima) Lakkaraju is an assistant professor at Harvard University focusing on explainability, fairness, and robustness of machine learning models. She has also been working with various domain experts in policy and healthcare to understand the real-world implications of explainable and fair ML. Hima has been named as one of the world's top innovators under 35 by both MIT Tech Review and Vanity Fair. Her research has also received best paper awards at SIAM International Conference on Data Mining (SDM) and INFORMS, and grants from NSF, Google, Amazon, and Bayer. Hima has given keynote talks at various top ML conferences and workshops including CIKM, ICML, NeurIPS, AAAI, and CVPR, and her research has also been showcased by popular media outlets including the New York Times, MIT Tech Review, TIME magazine, and Forbes. More recently, she co-founded the Trustworthy ML Initiative to enable easy access to resources on trustworthy ML and to build a community of researchers, practitioners working on the topic.
 
       spaces: true
 
-    - image_path: /assets/images/GenAIRecP2024/dietmar.jpg
-      alt: "Dietmar Jannach"
-      title: "Dietmar Jannach"
+    - image_path: /assets/images/GenAIEcommerce2024/manisha.jpg
+      alt: "Manisha Verma"
+      title: "Manisha Verma"
       excerpt: |
-        ***University of Klagenfurt, University of Bergen*** <br>
+        ***Amazonn*** <br>
         **Title of the talk: TBD**
 
       abstract: >
         Abstract.
       
       bio: >
-        Dietmar Jannach is a Professor at the University of Klagenfurt in Austria. He has authored more than 150 publications in areas including recommender systems technology, knowledge-based systems development, constraint-based systems, semantic web applications and web mining, and software engineering. Among his publications, Jannach is a co-author of the book Recommender Systems: An Introduction. His current line of research is focused on the design and evaluation of machine learning algorithms for recommender systems and on the impact and value of recommender systems in practice.
+        Manisha Verma is a Scientist at Amazon, NYC. She completed her PhD from University College London. Some of her recent work has been published at conferences such as WWW, RecSys, CIKM, WSDM and SIGIR. Over the past few years, she has worked with researchers at Google, Microsoft and Yahoo on improving advertisements. She has served on the program committee for WWW’22, SIGIR’21, ECIR’21, NAACL’20, NeuroIR17, DSHCM’17,’18, LearnIR’18 and CIKM’21.
 
       spaces: true
 
-    - image_path: /assets/images/GenAIRecP2024/Xiao.jpg
-      alt: "Xiao-Ming Wu"
-      title: "Xiao-Ming Wu"
+    - image_path: /assets/images/GenAIEcommerce2024/Xia.png
+      alt: "Xia Ning"
+      title: "Xia Ning"
       excerpt: |
-        ***Xiao-Ming Wu*** <br>
+        ***Ohio State University*** <br>
         **Title of the talk: TBD**
 
       abstract: >
         Abstract.
       
       bio: >
-        Dr Wu received her PhD in Electrical Engineering from Columbia University with her dissertation titled “Learning on Graphs with Partially Absorbing Random Walks: Theory and Practice”. She received her bachelor degree in Applied Mathematics and master degree in Computer Science, both from Peking University, and her MPhil degree in Information Engineering from the Chinese University of Hong Kong. Her research interests are in the broad areas of machine learning, pattern recognition, and data mining, with a particular focus on graph algorithms and their applications. She has strong interests in both fundamental and applied research, and regularly publishes in prestigious venues such as NIPS and CVPR. Her thesis research has contributed to theoretical understanding of state-of-the-art methods and improved upon them significantly for various applications. Her approaches have been currently adopted in industry.
+        Ning was trained as a Computer Scientist. Ning’s research is on Data Mining, Machine Learning and Big Data Analytics, and their applications in Chemical Informatics, Drug Development, Medical Informatics and Health Informatics. She develops efficient data mining and machine learning methodologies to facilitate rapid and targeted exploration over chemical and biological spaces, and effective computational algorithms (e.g., recommendation, information retrivial) to analyze medical and healthcare data (e.g., electronic medical records, pharmacovigilance data). Her Ph.D. thesis was on Recommender Systems. Her research is currently supported by NSF and NIH.
 
       spaces: true
-
-    - image_path: /assets/images/GenAIRecP2024/dawen.jpg
-      alt: "Dawen Liang"
-      title: "Dawen Liang"
-      excerpt: |
-        ***Netflix*** <br>
-        **Title of the talk: TBD**
-
-      abstract: >
-        Abstract.
-      
-      bio: >
-        Dawen Liang is a research scientist at Netflix, working on core personalization algorithms. His research interests include probabilistic models and (approximate) inference, causal inference, reinforcement learning, and their applications to recommender systems. He completed his Ph.D. in the Electrical Engineering Department at Columbia University, working on probabilistic latent variable models for analyzing music, speech, text, and user behavior data.
-
-      spaces: true
-
-
-panelists:
-    - image_path: /assets/images/GenAIRecP2024/Ed.jpg
-      alt: "Ed Chi"
-      excerpt: >
-        **Ed Chi**<br>
-        Google DeepMind
-      bio: >
-        Ed H. Chi is a Distinguished Scientist at Google DeepMind, leading machine learning research teams working on large language models (LaMDA/Bard), neural recommendations, and reliable machine learning. With 39 patents and ~200 research articles, he is also known for research on user behavior in web and social media.  As the Research Platform Lead, he helped launched Bard, a conversational AI experiment, and delivered significant improvements for YouTube, News, Ads, Google Play Store at Google with >660 product improvements since 2013. Prior to Google, he was Area Manager and Principal Scientist at Xerox Palo Alto Research Center's Augmented Social Cognition Group in researching how social computing systems help groups of people to remember, think and reason. Ed earned his 3 degrees (B.S., M.S., and Ph.D.) in 6.5 years from University of Minnesota. Inducted as an ACM Fellow and into the CHI Academy, he also received a 20-year Test of Time award for research in information visualization. He has been featured and quoted in the press, including the Economist, Time Magazine, LA Times, and the Associated Press.  An avid golfer, swimmer, photographer and snowboarder in his spare time, he also has a blackbelt in Taekwondo
 
 organizers:
 
-    - image_path: /assets/images/GenAIRecP2024/Narges.jpg
-      alt: "Narges Tabari:"
+    - image_path: /assets/images/GenAIEcommerce2024/Mansi.jpg
+      alt: "Mansi Mane"
       excerpt: >
-        **Narges Tabari:**<br>
-        AWS AI Labs
+        **Mansi Mane**<br>
+        Walmart Labs
       bio: >
-        Narges Tabari is an Applied Scientist working at AWS AI Labs. She received her PhD in 2018 in Computer Science at the University of North Carolina. She mainly wroks towards applications of NLP, from sentiment analysis, emotion detection, summarization, text generation, and intersection of NLP with recommender systems and personalization. Before joining Amazon, she was a Research Scientist at the University of Virginia and an NLP Engineer at Genentech. She has served as Session Chair for NAACL 2022 Industry Track, and has extensive experience reviewing for conferences such as NAACL, AAAI, and ACL.
+        Mansi Mane is Staff Data Scientist at Search and Recommendation team in Walamrt Labs. She completed her Masters from Carnegie Mellon University in 2018. She currently focuses on research and development of machine learning algorithms for recommendations, search, marketing as well as content generation. Mansi was previously Applied Scientist at AWS where she lead efforts for training of billion scale large language models from scratch. Her research interests include machine learning, multimodal LLMs pretraining, fine-tuning as well as in-context learning.
         
-    - image_path: /assets/images/GenAIRecP2024/Aniket.JPG
-      alt: "Aniket Deshmukh"
+    - image_path: /assets/images/GenAIEcommerce2024/Djordje.jpg
+      alt: "Djordje Gligorijevic"
       excerpt: >
-        **Aniket Deshmukh**<br>
-        AWS AI Labs
+        **Djordje Gligorijevic**<br>
+        eBay
       bio: >
-        Aniket is an Applied Scientist at AWS AI Labs, focusing on recommendation systems and large language models. Previously, as a Senior Applied Scientist at Microsoft AI and Research, he contributed to Microsoft Advertising by working on multimedia ads, smart campaigns, and auto-bidding projects. Aniket earned his PhD in Electrical and Computer Engineering from the University of Michigan, Ann Arbor, focusing on domain generalization and reinforcement learning. He is an active contributor to the academic community, regularly reviewing for conferences such as NeurIPS, ICML, CVPR, AISTATS, and JMLR, and has been recognized as a top reviewer at NeurIPS in 2021 and 2023, as well as AISTATS in 2022. Aniket has experience in organizing workshops at conferences like ICLR and WWW.
+        Djordje Gligorijevic is applied sciences manager at eBay, leading allocation and pricing team in eBay’s sponsored search program. Prior to eBay Djordje worked as Research Scientist in Yahoo Research. He received the Ph.D. degree from Temple University, Philadelphia, PA, in 2018. His research interests include Machine Learning, Extreme Multi-Label Classification, NLP, LLMs, and the Integration of Qualitative Knowledge into predictive models with applications in domains of Computational Healthcare, Computational Advertising, Search, Ranking, and Recommendation Systems. Djordje has published at international conferences such as AAAI, KDD, TheWebConf, SDM, CIKM, SIGIR, as well as in international journals like Data Mining and Knowledge Discovery, BigData journal where he serves as associate editor, Methods and Nature’s Scientific Reports.
 
 
-    - image_path: /assets/images/GenAIRecP2024/Wang.jpg
-      alt: "Wang-Cheng Kang"
+    - image_path: /assets/images/GenAIEcommerce2024/wang.jpg
+      alt: "Dingxian Wang"
       excerpt: >
-        **Wang-Cheng Kang**<br>
-        Google DeepMind
+        **Dingxian Wang**<br>
+        Upwork
       bio: >
-        Dr. Wang-Cheng Kang is a Staff Research Engineer at Google DeepMind, working on LLM/GenAI for RecSys and LLM data efficiency. He held a PhD in Computer Science from UC San Diego, and interned at Adobe Research, Pinterest Labs, and Google Brain, focusing on recommender systems. He received RecSys'17 Best Paper Runner-up, and proposed SASRec, the first Transformer-based recommendation method.
+        Dingxian is a Applied Science leader with around 10 years industry experience at the intersection of machine learning, software engineering, applied science, and product development. He is passionate about applying skills to solving real-world problems, especially in the field of technology and data science. He is currently leading a team focus on the ranking, personalization and recommendation in the search area. Throughout the career, Dingxian has been involved in a wide range of areas, including search engine, query understanding, recall system, ranking system, recommender system, marketing science, personalization, information extraction, knowledge graph etc. With massive proven track records of delivering great business results, and drove hundreds of millions of dollars in GMV and revenue growth. Dingxian has received many top honors and awards ranging from top conference, journals, patents to top research projects as well as internal competition awards. Including 20+ papers on top conference and journals (one best paper candidate of CIKM 2021), 9 US patents, over 1500 citations, ICT Research Project of the Year 2021 of ACS (Australian Computer Society) and eBay Leaders’ Choice Award.
 
     - image_path: /assets/images/GenAIRecP2024/Rashmi.webp
       alt: "Rashmi Gangadharaiah"
