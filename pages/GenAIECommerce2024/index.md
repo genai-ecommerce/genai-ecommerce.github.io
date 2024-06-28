@@ -27,7 +27,7 @@ keynote:
       alt: "Himabindu Lakkaraju"
       title: "Himabindu Lakkaraju"
       excerpt: |
-        ***Google DeepMind*** <br>
+        ***Harvard University*** <br>
         **Title of the talk: TBD**
 
       abstract: >
@@ -42,7 +42,7 @@ keynote:
       alt: "Manisha Verma"
       title: "Manisha Verma"
       excerpt: |
-        ***Amazonn*** <br>
+        ***Amazon*** <br>
         **Title of the talk: TBD**
 
       abstract: >
