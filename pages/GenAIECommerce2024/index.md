@@ -1,7 +1,7 @@
 ---
 permalink: /GenAIECommerce2024
 title: "Workshop on Generative AI for E-Commerce <br>(2024)"
-excerpt: Monday Aug. 25 or 26, 2024, xxpm - yypm <br> TBD, TBD <br> Held in conjunction with <a href="https://cikm2024.org/">CIKM 2024</a>
+excerpt: October 25 <br> TBD, TBD <br> Held in conjunction with <a href="https://cikm2024.org/">CIKM 2024</a>
 browser-title: "GenAIEcommerce 2024"
 masthead-title: "GenAIEcommerce 2024"
 masthead-subtitle: "@CIKM 2024"
