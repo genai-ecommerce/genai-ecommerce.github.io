@@ -88,7 +88,7 @@ organizers:
         **Djordje Gligorijevic**<br>
         eBay
       bio: >  
-Djordje Gligorijevic is applied sciences manager at eBay, leading allocation and pricing team in eBay’s sponsored search program. Prior to eBay Djordje worked as Research Scientist in Yahoo Research. He received the Ph.D. degree from Temple University, Philadelphia, PA, in 2018. His research interests include Machine Learning, Extreme Multi-Label Classification, NLP, LLMs, and the Integration of Qualitative Knowledge into predictive models with applications in domains of Computational Healthcare, Computational Advertising, Search, Ranking, and Recommendation Systems. Djordje has published at international conferences such as AAAI, KDD, TheWebConf, SDM, CIKM, SIGIR, as well as in international journals like Data Mining and Knowledge Discovery, BigData journal where he serves as associate editor, Methods and Nature’s Scientific Reports.
+	Djordje Gligorijevic is applied sciences manager at eBay, leading allocation and pricing team in eBay’s sponsored search program. Prior to eBay Djordje worked as Research Scientist in Yahoo Research. He received the Ph.D. degree from Temple University, Philadelphia, PA, in 2018. His research interests include Machine Learning, Extreme Multi-Label Classification, NLP, LLMs, and the Integration of Qualitative Knowledge into predictive models with applications in domains of Computational Healthcare, Computational Advertising, Search, Ranking, and Recommendation Systems. Djordje has published at international conferences such as AAAI, KDD, TheWebConf, SDM, CIKM, SIGIR, as well as in international journals like Data Mining and Knowledge Discovery, BigData journal where he serves as associate editor, Methods and Nature’s Scientific Reports.
 
 
     - image_path: /assets/images/GenAIEcommerce2024/wang.jpg
@@ -106,8 +106,7 @@ Djordje Gligorijevic is applied sciences manager at eBay, leading allocation and
         **Behzad Shahrasbi**<br>
         Amazon
       bio: >
-
-Behzad Shahrasbi is Manager of Applied Science at Amazon. His team leads the efforts to proactively detect and prevent catalog abuse and protect brands at scale. His career also includes significant tenures at Walmart, SmartDrive Systems, and Nokia. Behzad research interests span NLP, Mulitimodal Representations, Recommender Systems, and Privacy-Preserving ML. Post completeion of his PhD, Behzad has published in several journals and conferences, including ICML, IEEE Trans. on Big Data, ICCV, and ICASP.
+	Behzad Shahrasbi is Manager of Applied Science at Amazon. His team leads the efforts to proactively detect and prevent catalog abuse and protect brands at scale. His career also includes significant tenures at Walmart, SmartDrive Systems, and Nokia. Behzad research interests span NLP, Mulitimodal Representations, Recommender Systems, and Privacy-Preserving ML. Post completeion of his PhD, Behzad has published in several journals and conferences, including ICML, IEEE Trans. on Big Data, ICCV, and ICASP.
 
     - image_path: /assets/images/GenAIEcommerce2024/topojoy.png
       alt: "Topojoy Biswas"
