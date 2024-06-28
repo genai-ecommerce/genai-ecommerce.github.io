@@ -174,7 +174,7 @@ We have a full-day program on Oct 25</u> at ***Location: TBD***.
 | ----------------- | ------------ |
 | **8:00-8:10am**    | **Opening remarks** |
 | **8:10-8:50am**    | **[Keynote by TBD TBD](#TBD+TBD) (40 min)**: <br> XYZ |
-| **15:00-16:00pm**    | **[Panel Discussion](#panelists) (60 min)**<br>**Moderator**:TBD<br>**Panelists**: TBD, TBD, TBD|
+| **15:00-16:00pm**    | **[Panel Discussion](#TBD+TBD) (60 min)**<br>**Moderator**:TBD<br>**Panelists**: TBD, TBD, TBD|
 | **16:00-16:10pm**    | **Closing Remarks** |
 
 <div class="small">
