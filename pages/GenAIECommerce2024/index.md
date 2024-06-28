@@ -179,10 +179,6 @@ We have a full-day program on Oct 25</u> at ***Location: TBD***.
 # Keynote Speakers
 {% include feature_row id="keynote" type="left" %}
 
-# Panelists
-{% include feature_row id="panelists" %}
-
-
 # Accepted Papers
 <ul>
 {% for pubitem in site.data.papers2024 %}
