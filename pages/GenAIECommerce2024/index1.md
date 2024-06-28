@@ -1,10 +1,10 @@
 ---
-permalink: /GenAIRecP2024
-title: "Workshop on Generative AI for Recommender Systems and Personalization <br>(2024)"
-excerpt: Monday Aug. 25 or 26, 2024, xxpm - yypm <br> TBD, TBD <br> Held in conjunction with <a href="https://kdd.org/kdd2024/">KDD 2024</a>
-browser-title: "GenAIRecP 2024"
-masthead-title: "GenAIRecP 2024"
-masthead-subtitle: "@KDD 2024"
+permalink: /GenAIECommerce2024
+title: "Workshop on Generative AI for E-Commerce <br>(2024)"
+excerpt: October 25 <br> TBD, TBD <br> Held in conjunction with <a href="https://cikm2024.org/">CIKM 2024</a>
+browser-title: "GenAIEcommerce 2024"
+masthead-title: "GenAIEcommerce 2024"
+masthead-subtitle: "@CIKM 2024"
 masthead-url: "/"
 layout: splash
 author_profile: false
@@ -14,20 +14,18 @@ header:
     overlay_image: /assets/images/GenAIBanner.PNG
 navigation:
   - title: "CfP"
-    url: /GenAIRecP2024/call-for-papers
+    url: /GenAIEcommerce2024/call-for-papers
   - title: "Schedule"
-    url: /GenAIRecP2024#schedule
+    url: /GenAIEcommerce2024#schedule
   - title: "Keynotes"
-    url: /GenAIRecP2024#keynote-speakers
-  - title: "Panelists"
-    url: /GenAIRecP2024#panelists
+    url: /GenAIEcommerce2024#keynote-speakers
   - title: "Organization"
-    url: /GenAIRecP2024#organizers
+    url: /GenAIEcommerce2024#organizers
 
 keynote: 
-    - image_path: /assets/images/GenAIRecP2024/Ed.jpg
-      alt: "Ed Chi"
-      title: "Ed Chi"
+    - image_path: /assets/images/GenAIEcommerce2024/hima.png
+      alt: "Himabindu Lakkaraju"
+      title: "Himabindu Lakkaraju"
       excerpt: |
         ***Google DeepMind*** <br>
         **Title of the talk: TBD**
