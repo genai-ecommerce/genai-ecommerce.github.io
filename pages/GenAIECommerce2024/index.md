@@ -95,37 +95,37 @@ organizers:
       bio: >
         Dingxian is a Applied Science leader with around 10 years industry experience at the intersection of machine learning, software engineering, applied science, and product development. He is passionate about applying skills to solving real-world problems, especially in the field of technology and data science. He is currently leading a team focus on the ranking, personalization and recommendation in the search area. Throughout the career, Dingxian has been involved in a wide range of areas, including search engine, query understanding, recall system, ranking system, recommender system, marketing science, personalization, information extraction, knowledge graph etc. With massive proven track records of delivering great business results, and drove hundreds of millions of dollars in GMV and revenue growth. Dingxian has received many top honors and awards ranging from top conference, journals, patents to top research projects as well as internal competition awards. Including 20+ papers on top conference and journals (one best paper candidate of CIKM 2021), 9 US patents, over 1500 citations, ICT Research Project of the Year 2021 of ACS (Australian Computer Society) and eBay Leaders’ Choice Award.
 
-    - image_path: /assets/images/GenAIRecP2024/Rashmi.webp
-      alt: "Rashmi Gangadharaiah"
+    - image_path: /assets/images/GenAIEcommerce2024/Behzad.jpg
+      alt: "Behzad Shahrasbi"
       excerpt: >
-        **Rashmi Gangadharaiah**<br>
-        AWS AI Labs
+        **Behzad Shahrasbi**<br>
+        Amazon
       bio: >
-        Dr. Rashmi Gangadharaiah is a Principal Machine Learning scientist in AWS AI, Amazon. She currently works in the area of Conversational AI, focused on task-oriented dialog systems. She has previously worked on applications in the areas of healthcare analytics, question answering, information retrieval - especially from social media, machine translation and speech science. She was previously a Research Staff Member at IBM Research where she worked on knowledge discovery, drug safety and interactive dialog systems in customer support settings. She was also a postdoctoral scholar at UCSD where she worked with several infectious disease doctors to build an interactive decision support system for differential diagnosis. Dr. Gangadharaiah earned her PhD in information technology, artificial intelligence, and machine learning from Carnegie Mellon University. She has experience organizing workshops (NLP4MC at ACL'20, NLP4MC at NAACL'21) and Industry Tracks (NAACL'22 Industry Track Chair) at top-tier NLP/ML conferences.
+        Behzad Shahrasbi is Manager of Applied Science at Amazon. His team leads the efforts to proactively detect and prevent catalog abuse and protect brands at scale. His career also includes significant tenures at Walmart, SmartDrive Systems, and Nokia. Behzad research interests span NLP, Mulitimodal Representations, Recommender Systems, and Privacy-Preserving ML. Post completeion of his PhD, Behzad has published in several journals and conferences, including ICML, IEEE Trans. on Big Data, ICCV, and ICASP.
 
-    - image_path: /assets/images/GenAIRecP2024/Hamed.jpg
-      alt: "Hamed Zamani"
+    - image_path: /assets/images/GenAIEcommerce2024/topojoy.png
+      alt: "Topojoy Biswas"
       excerpt: >
-        **Hamed Zamani**<br>
-        University of Massachusetts Amherst
+        **Topojoy Biswas**<br>
+        Walmart Labs
       bio: >
-        Hamed Zamani is an Assistant Professor at the University of Massachusetts Amherst, where he also serves as the Associate Director of the Center for Intelligent Information Retrieval (CIIR), one of the top academic research labs in Information Retrieval worldwide. Prior to UMass, he was a Researcher at Microsoft working on search and recommendation problems. His research focuses on designing and evaluating (interactive) information access systems, including search engines, recommender systems, and question answering. His work has led to over 85 refereed publications in the field and has led to pioneering work on LLM personalization. He is a recipient of the NSF CAREER Award, ACM SIGIR Early Career Excellence in Research and Community Engagement awards, and Amazon Research Award. He is an Associate Editor of the ACM Transactions on Information Systems (TOIS), has organized multiple workshops at the SIGIR, RecSys, WSDM, and WWW conferences, and served as a PC Chair at SIGIR 2022 (Short Papers)
+        Topojoy Biswas is Distinguished Data Scientist at Walmart Labs. At Walmart he leads efforts related to W+ membership models and creative generation projects. Prior to Walmart he worked as Principal Engineer at Yahoo Research where he worked on information extraction on text and videos in Yahoo Knowledge Graph which powers search and information organization in products in Yahoo, like Finance, Sports, entity search and browse. Before Yahoo Knowledge graphs, he worked for Yahoo shopping on attribute extraction and classification of shopping feeds into large taxonomies of products. Topojoy has published in multiple international conferences such as ICIP, ACM Multimedia etc and has spoken on applied machine learning topics in MLConf, KGC etc.
 
-    - image_path: /assets/images/GenAIRecP2024/Julian.jpg
-      alt: "Julian McAuley"
+    - image_path: /assets/images/GenAIEcommerce2024/Evren.jpg
+      alt: "Evren Korpeoglu"
       excerpt: >
-        **Julian McAuley**<br>
-        University of California, San Diego
+        **Evren Korpeoglu**<br>
+        Walmart labs
       bio: >
-        Julian McAuley has been a professor in the Computer Science Department at the University of California, San Diego since 2014. Previously he was a postdoctoral scholar at Stanford University after receiving his PhD from the Australian National University in 2011. His research is concerned with developing predictive models of human behavior using large volumes of online activity data. He has organized a large number of workshops, including workshops on recommendation, e-commerce, and natural language processing.
+        Evren Korpeoglu is a Director of Data Science at Personalization and Recommendations team in Walmart Global Tech. At Walmart he leads efforts related to whole page optimization, item recommendations as well as using Generative AI based models for recommendations. He completed his Ph.D. from Bikent University. He has published at international conferences like NeurIPS, ICML, SIGKDD.
 
-    - image_path: /assets/images/GenAIRecP2024/GeorgeKarypis.png
-      alt: "George Karypis"
+    - image_path: /assets/images/GenAIEcommerce2024/marios.jpg
+      alt: "Marios Savvides"
       excerpt: >
-        **George Karypis**<br>
-        University of Minnesota 
+        **Marios Savvides**<br>
+        CMU, Ultron AI
       bio: >
-        Dr. George Karypis is a Senior Principal Scientist at AWS AI and a Distinguished McKnight University Professor and William Norris Chair in Large Scale Computing at the Department of Computer Science & Engineering at the University of Minnesota. His research interests span the areas of data mining, machine learning, high performance computing, information retrieval, collaborative filtering, bioinformatics, cheminformatics, and scientific computing. His research has resulted in the development of software libraries for serial and parallel graph partitioning (METIS and ParMETIS), hypergraph partitioning (hMETIS), for parallel Cholesky factorization (PSPASES), for collaborative filtering-based recommendation algorithms (SUGGEST), clustering high dimensional datasets (CLUTO), finding frequent patterns in diverse datasets (PAFI), and for protein secondary structure prediction (YASSPP). He has coauthored over 350 papers on these topics and two books (“Introduction to Protein Structure Prediction: Methods and Algorithms” (Wiley, 2010) and “Introduction to Parallel Computing” (Publ. Addison Wesley, 2003, 2nd edition)). He is serving on the program committees of many conferences and workshops on these topics, and on the editorial boards of the IEEE Transactions on Knowledge and Data Engineering, ACM Transactions on Knowledge Discovery from Data, Data Mining and Knowledge Discovery, Social Network Analysis and Data Mining Journal, International Journal of Data Mining and Bioinformatics, the journal on Current Proteomics, Advances in Bioinformatics, and Biomedicine and Biotechnology. He is a Fellow of the IEEE.
+        Professor Marios Savvides is the Bossa Nova Robotics Professor of Artificial Intelligence at Carnegie Mellon University and is also the Founder and Director of the Biometrics Center at Carnegie Mellon University and a Full Tenured Professor in the Electrical and Computer Engineering Department. He received his Bachelor of Engineering in Microelectronics Systems Engineering from University of Manchester Institute of Science and Technology in 1997 in the United Kingdom, his Master of Science in Robotics from the Robotics Institute in 2000 and his PhD from the Electrical and Computer Engineering department at CMU in 2004. He is on the Program Committee on several Biometric conferences, such as the IEEE BTAS, ICPR, SPIE Biometric Identification, the IEEE AutoID, and others, and has been the Organizer and the Co-Chair of the Robust Biometrics Understanding the Science and Technology Conference. His research is focused on developing core AI and machine-learning algorithms that were successfully applied for robust face detection, face recognition, and most recently, general object detection and scene understanding. He has authored and co-authored over 240 journal and conference publications, including 22 book chapters and served as the area editor of the Springer’s Encyclopedia of Biometrics. He is the recipient of seven Best Paper awards.
         
 ---
 
@@ -146,36 +146,28 @@ var tzTime = startTime.tz(currTz)
 </script>
 
 # Overview
-Personalization is key in understanding user behavior and has been a main focus in the fields of knowledge discovery and information retrieval. Building personalized recommender systems is especially important now due to the vast amount of user-generated textual content, which offers deep insights into user preferences. The recent advancements in Large Language Models (LLMs) have significantly impacted research areas, mainly in Natural Language Processing and Knowledge Discovery, giving these models the ability to handle complex tasks and learn context.
-
-However, the use of generative models and user-generated text for personalized systems and recommendation is relatively new and has shown some promising results. This workshop is designed to bridge the research gap in these fields and explore personalized applications and recommender systems. We aim to fully leverage generative models to develop AI systems that are not only accurate but also focused on meeting individual user needs. Building upon the momentum of previous successful forums, this workshop seeks to engage a diverse audience from academia and industry, fostering a dialogue that incorporates fresh insights from key stakeholders in the field. 
-
+The "Gen AI for E-commerce" workshop explores the role of Generative Artificial Intelligence in transforming e-commerce through enhanced user experience and operational efficiency. E-commerce companies grapple with multiple challenges such as lack of quality content for products, subpar user experience, sparse datasets etc. Gen AI offers significant potential to address these complexities. Yet, deploying these technologies at scale presents challenges such as hallucination in data, excessive costs, increased latency response, and limited generalization in sparse data environments. This workshop will bring together experts from academia and industry to discuss these challenges and opportunities, aiming to showcase case studies, breakthroughs, and insights into practical implementations of Gen AI in e-commerce. 
 # Call for papers
-**Deadline extended to 10 June 2024.** We will welcome papers that leverage generative models with a goal of recommendation and personalization on several topics including but not limited to those mentioned in [CFP](https://genai-personalization.github.io/GenAIRecP2024/call-for-papers). Papers can be submitted at [OpenReview](https://openreview.net/group?id=KDD.org/2024/Workshop/GenAIRecP).
+We will welcome papers that leverage Generative Artificial Intelligence (Gen AI) in e-commerce. Detailed topics are mentioned in [CFP](https://genai-ecommerce.github.io/GenAIECommerce2024/call-for-papers). Papers can be submitted at [OpenReview]().
 
-# Call for reviewers
-We are also looking for reviewers with relevant experience. Please fill this [form](https://forms.gle/UN2xFjarf18aTnRLA) if you are interested. 
 
 ## Information for the day of the workshop
 
-**Workshop at KDD2024**    
-- Submission deadline: ~~28 May 2024~~ 10 June 2024
-- Author notifications: 28 June 2024
-- Meeting: 25/26 August 2024
+**Workshop at CIKM2024**    
+- Paper submission deadline: 29 July 2024
+- Paper acceptance notification: 30 August 2024
+- Workshop: 25 October 2024
 
 # Schedule
 
-We have a half-day program either from <u>8am to 12pm or 1pm to 5pm on Monday (Aug. 26)</u> at ***Location: TBD***. 
+We have a full-day program on Oct 25</u> at ***Location: TBD***. 
 
 | Time (PDT) | Agenda |
 | ----------------- | ------------ |
 | **8:00-8:10am**    | **Opening remarks** |
 | **8:10-8:50am**    | **[Keynote by TBD TBD](#TBD+TBD) (40 min)**: <br> XYZ |
-| **8:50-9:30am**    | **[Keynote by TBD TBD](#TBD+TBD) (40 min)**: <br> XYZ |
-| **9:30-10:30am**    | **Coffee Break/Poster Session** |
-| **10:30-11:00am**    | **[Keynote by TBD TBD](#TBD+TBD) (30 min)**: <br> XYZ |
-| **11:00-12:00pm**    | **[Panel Discussion](#panelists) (60 min)**<br>**Moderator**:TBD<br>**Panelists**: TBD, TBD, TBD|
-| **12:00-12:10pm**    | **Closing Remarks** |
+| **15:00-16:00pm**    | **[Panel Discussion](#TBD+TBD) (60 min)**<br>**Moderator**:TBD<br>**Panelists**: TBD, TBD, TBD|
+| **16:00-16:10pm**    | **Closing Remarks** |
 
 <div class="small">
 {{ schedule | markdownify }}
@@ -184,10 +176,6 @@ We have a half-day program either from <u>8am to 12pm or 1pm to 5pm on Monday (A
 
 # Keynote Speakers
 {% include feature_row id="keynote" type="left" %}
-
-# Panelists
-{% include feature_row id="panelists" %}
-
 
 # Accepted Papers
 <ul>
