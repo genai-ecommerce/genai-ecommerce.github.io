@@ -50,7 +50,7 @@ keynote:
         Abstract.
       
       bio: >
-        Manisha Verma is a Scientist at Amazon, NYC. She completed her PhD from University College London. Some of her recent work has been published at conferences such as WWW, RecSys, CIKM, WSDM and SIGIR. Over the past few years, she has worked with researchers at Google, Microsoft and Yahoo on improving advertisements. She has served on the program committee for WWW’22, SIGIR’21, ECIR’21, NAACL’20, NeuroIR17, DSHCM’17/’18, LearnIR’18 and CIKM’21.
+        Manisha Verma is a Scientist at Amazon, NYC. She completed her PhD from University College London. Some of her recent work has been published at conferences such as WWW, RecSys, CIKM, WSDM and SIGIR. Over the past few years, she has worked with researchers at Google, Microsoft and Yahoo on improving advertisements. She has served on the program committee for WWW’22, SIGIR’21, ECIR’21, NAACL’20, NeuroIR17, DSHCM’17,’18, LearnIR’18 and CIKM’21.
 
       spaces: true
 
