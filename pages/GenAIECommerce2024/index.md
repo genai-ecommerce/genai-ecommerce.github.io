@@ -19,8 +19,6 @@ navigation:
     url: /GenAIEcommerce2024#schedule
   - title: "Keynotes"
     url: /GenAIEcommerce2024#keynote-speakers
-  - title: "Panelists"
-    url: /GenAIEcommerce2024#panelists
   - title: "Organization"
     url: /GenAIEcommerce2024#organizers
 
