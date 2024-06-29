@@ -160,7 +160,7 @@ We will welcome papers that leverage Generative Artificial Intelligence (Gen AI)
 
 # Schedule
 
-We have a full-day program on Oct 25</u> at ***Location: TBD***. 
+We have a full-day program on Oct 25 at ***TBD, Boise, Idaho***. 
 
 | Time (PDT) | Agenda |
 | ----------------- | ------------ |
