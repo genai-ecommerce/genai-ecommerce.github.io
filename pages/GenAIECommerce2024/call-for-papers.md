@@ -21,19 +21,19 @@ header:
 
 We will welcome papers that leverage Generative Artificial Intelligence (Gen AI) in e-commerce of particular interest include (but not limited to) the following topics:
 
-- Personalized Search and Recommendation Systems: Advances in Gen AI that enable more personalized dynamic product and content recommendations based on user behavior and preferences.
-- Generative Content Creation (Text): Explorations of generative large language models (LLMs) for creating or improving product descriptions, reviews, and personalized advertising content that enhances user engagement.
-– Generative Content Creation (Image): Explorations of generative image models for creating new product images or enhancing the existing ones, generating personalized marketing images, or other visual forms of communicating products with customers.
-– Generative Content Creation ( Audio, Video and Multimodal): Using large multi-modal generative models for creating product videos, improving quality of existing videos, integrating them with the platform, all in service of producing a seamless user experience in multi-modal e-commerce world.
+-  Generative AI for Personalized Search and Recommendation Systems
+-  Generative large language models (LLMs) for creating or improving product descriptions, reviews, and personalized advertising content that enhances user engagement.
+– Generative image models for creating new product images or enhancing the existing ones, generating personalized marketing images, or other visual forms of communicating products with customers.
+– Using large multi-modal generative models for creating product videos, improving quality of existing videos, integrating them with the platform, all in service of producing a seamless user experience in multi-modal e-commerce world.
 - Leveraging Gen AI for dynamic catalog creation and attribute extraction in the ever-evolving world of products.
 - Inventory management with Gen AI
-- Virtual Try-Ons: Using Gen AI to enable virtual try-ons, allowing customers to visualize products on themselves or desired builds for fashion or beauty e-Commerce
+- Using Gen AI to enable virtual try-ons
 - LLM-driven generation of browsing and search recommendations, e.g., in situations of low recall.
 - LLM driven recommendations explainability by providing additional context on displayed items
 - Gen AI powered advertising and promotion systems: Systems that go beyond traditional advertising offerings such as creating a purchase baskets of promoted listings with a comprehensive message to a user.
 - Efficiency and scalability of Gen AI driven system
-- Customer Service Automation: LLM-driven chatbots and virtual assistants that provide personalized customer service, support, and shopping assistance.
-- Ethical Considerations in AI: Discussing the ethical implications of deploying Gen AI in e-Commerce, including concerns about privacy, transparency, trust and fairness.
+- Customer Service Automation: LLM-driven chatbots and virtual assistants
+- Ethical implications of deploying Gen AI in e-Commerce, including concerns about privacy, transparency, trust and fairness.
 
 
 ### Important dates
@@ -45,7 +45,7 @@ We will welcome papers that leverage Generative Artificial Intelligence (Gen AI)
 
 ### Submission Instructions:
 - **Paper Length:** Authors should submit papers with up to 5 pages, excluding references and supplementary materials.
-- **Submission Portal:** Please submit your papers via [Easychair](https://easychair.org/). Specific submission link and workshop ID will be provided soon.
+- **Submission Portal:** Please submit your papers via [Easychair](https://easychair.org/my/conference?conf=genaiecom24). Specific submission link and workshop ID will be provided soon.
 - **Formatting Guidelines:** Manuscripts should be submitted in PDF format, using the 2-column [ACM sigconf template](https://www.acm.org/publications/proceedings-template), see 
 - **Anonymity Requirement:** Submissions must be fully anonymized to adhere to a double-blind review process.
 - **Dual Submission Policy:** The workshop welcomes both ongoing and unpublished work. Submissions under review or recently accepted at other venues are also eligible, provided they adhere to any overlapping publication policies.
