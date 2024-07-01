@@ -148,7 +148,7 @@ var tzTime = startTime.tz(currTz)
 # Overview
 The "Gen AI for E-commerce" workshop explores the role of Generative Artificial Intelligence in transforming e-commerce through enhanced user experience and operational efficiency. E-commerce companies grapple with multiple challenges such as lack of quality content for products, subpar user experience, sparse datasets etc. Gen AI offers significant potential to address these complexities. Yet, deploying these technologies at scale presents challenges such as hallucination in data, excessive costs, increased latency response, and limited generalization in sparse data environments. This workshop will bring together experts from academia and industry to discuss these challenges and opportunities, aiming to showcase case studies, breakthroughs, and insights into practical implementations of Gen AI in e-commerce. 
 # Call for papers
-We will welcome papers that leverage Generative Artificial Intelligence (Gen AI) in e-commerce. Detailed topics are mentioned in [CFP](https://genai-ecommerce.github.io/GenAIECommerce2024/call-for-papers). Papers can be submitted at [OpenReview]().
+We will welcome papers that leverage Generative Artificial Intelligence (Gen AI) in e-commerce. Detailed topics are mentioned in [CFP](https://genai-ecommerce.github.io/GenAIECommerce2024/call-for-papers). Papers can be submitted at [Easychair](https://easychair.org/).
 
 
 ## Information for the day of the workshop
