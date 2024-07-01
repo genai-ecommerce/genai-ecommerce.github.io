@@ -148,7 +148,7 @@ var tzTime = startTime.tz(currTz)
 # Overview
 The "Gen AI for E-commerce" workshop explores the role of Generative Artificial Intelligence in transforming e-commerce through enhanced user experience and operational efficiency. E-commerce companies grapple with multiple challenges such as lack of quality content for products, subpar user experience, sparse datasets etc. Gen AI offers significant potential to address these complexities. Yet, deploying these technologies at scale presents challenges such as hallucination in data, excessive costs, increased latency response, and limited generalization in sparse data environments. This workshop will bring together experts from academia and industry to discuss these challenges and opportunities, aiming to showcase case studies, breakthroughs, and insights into practical implementations of Gen AI in e-commerce. 
 # Call for papers
-We will welcome papers that leverage Generative Artificial Intelligence (Gen AI) in e-commerce. Detailed topics are mentioned in [CFP](https://genai-ecommerce.github.io/GenAIECommerce2024/call-for-papers). Papers can be submitted at [Easychair](https://easychair.org/).
+We will welcome papers that leverage Generative Artificial Intelligence (Gen AI) in e-commerce. Detailed topics are mentioned in [CFP](https://genai-ecommerce.github.io/GenAIECommerce2024/call-for-papers). Papers can be submitted at [Easychair](https://easychair.org/my/conference?conf=genaiecom24).
 
 
 ## Information for the day of the workshop
@@ -157,6 +157,8 @@ We will welcome papers that leverage Generative Artificial Intelligence (Gen AI)
 - Paper submission deadline: 29 July 2024
 - Paper acceptance notification: 30 August 2024
 - Workshop: 25 October 2024
+
+<!---
 
 # Schedule
 
@@ -172,6 +174,7 @@ We have a full-day program on Oct 25 at ***TBD, Boise, Idaho***.
 <div class="small">
 {{ schedule | markdownify }}
 </div>
+-->
 
 
 # Keynote Speakers
