@@ -34,6 +34,9 @@ We will welcome papers that leverage Generative Artificial Intelligence (Gen AI)
 - Efficiency and scalability of Gen AI driven system
 - Customer Service Automation: LLM-driven chatbots and virtual assistants
 - Ethical implications of deploying Gen AI in e-Commerce, including concerns about privacy, transparency, trust and fairness.
+- Reproducibility of the LLMs and evaluation metrics.
+  
+
 
 
 ### Important dates
