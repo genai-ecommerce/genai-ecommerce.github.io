@@ -44,7 +44,7 @@ We will welcome papers that leverage Generative Artificial Intelligence (Gen AI)
 
 ### Submission Instructions:
 - **Paper Length:** Authors should submit papers with up to 5 pages, excluding references and supplementary materials.
-- **Submission Portal:** Please submit your papers via [OpenReview](https://openreview.net/). Specific submission link and workshop ID will be provided soon.
+- **Submission Portal:** Please submit your papers via [Easychair](https://easychair.org/). Specific submission link and workshop ID will be provided soon.
 - **Formatting Guidelines:** Manuscripts should be submitted in PDF format, using the 2-column [ACM sigconf template](https://www.acm.org/publications/proceedings-template), see 
 - **Anonymity Requirement:** Submissions must be fully anonymized to adhere to a double-blind review process.
 - **Dual Submission Policy:** The workshop welcomes both ongoing and unpublished work. Submissions under review or recently accepted at other venues are also eligible, provided they adhere to any overlapping publication policies.
