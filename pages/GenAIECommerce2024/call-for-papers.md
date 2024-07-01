@@ -38,8 +38,9 @@ We will welcome papers that leverage Generative Artificial Intelligence (Gen AI)
 
 ### Important dates
 
-- Paper submission deadline: 29 July 2024
+- Paper submission deadline: 9th August 2024 
 - Paper acceptance notification: 30 August 2024
+- Camera-ready manuscript deadline: 13th September 2024 
 - Workshop: 25 October 2024
 
 ### Submission Instructions:
