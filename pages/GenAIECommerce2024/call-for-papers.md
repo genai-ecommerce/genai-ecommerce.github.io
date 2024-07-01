@@ -21,8 +21,8 @@ header:
 
 We will welcome papers that leverage Generative Artificial Intelligence (Gen AI) in e-commerce of particular interest include (but not limited to) the following topics:
 
--  Generative AI for Personalized Search and Recommendation Systems
--  Generative large language models (LLMs) for creating or improving product descriptions, reviews, and personalized advertising content that enhances user engagement.
+- Generative AI for Personalized Search and Recommendation Systems
+- Generative large language models (LLMs) for creating or improving product descriptions, reviews, and personalized advertising content that enhances user engagement.
 – Generative image models for creating new product images or enhancing the existing ones, generating personalized marketing images, or other visual forms of communicating products with customers.
 – Using large multi-modal generative models for creating product videos, improving quality of existing videos, integrating them with the platform, all in service of producing a seamless user experience in multi-modal e-commerce world.
 - Leveraging Gen AI for dynamic catalog creation and attribute extraction in the ever-evolving world of products.
