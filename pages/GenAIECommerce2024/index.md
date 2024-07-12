@@ -70,16 +70,14 @@ keynote:
 
 organizers:
 
-    - image_path: /assets/images/GenAIECommerce2024/Mansi.jpg
-      alt: "Mansi Mane"
+    - image_path: <img src="/assets/images/GenAIECommerce2024/Mansi.jpg" alt="Mansi Mane" width="300" height="300">
       excerpt: >
         **Mansi Mane**<br>
         Walmart Labs
       bio: >
         Mansi Mane is Staff Data Scientist at Search and Recommendation team in Walamrt Labs. She completed her Masters from Carnegie Mellon University in 2018. She currently focuses on research and development of machine learning algorithms for recommendations, search, marketing as well as content generation. Mansi was previously Applied Scientist at AWS where she lead efforts for training of billion scale large language models from scratch. Her research interests include machine learning, multimodal LLMs pretraining, fine-tuning as well as in-context learning.
         
-    - image_path: /assets/images/GenAIECommerce2024/Djordje.jpg
-      alt: "Djordje Gligorijevic"
+    - image_path: <img src="/assets/images/GenAIECommerce2024/Djordje.jpg" alt="Djordje Gligorijevic" width="300" height="300">
       excerpt: >
         **Djordje Gligorijevic**<br>
         eBay
