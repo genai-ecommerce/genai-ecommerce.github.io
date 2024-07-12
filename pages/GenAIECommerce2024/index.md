@@ -23,7 +23,7 @@ navigation:
     url: /GenAIECommerce2024#organizers
 
 keynote: 
-    - image_path: /assets/images/GenAIECommerce2024/hima.png
+    - image_path: /assets/images/GenAIECommerce2024/hima.jpeg
       alt: "Himabindu Lakkaraju"
       title: "Himabindu Lakkaraju"
       excerpt: |
@@ -38,7 +38,7 @@ keynote:
 
       spaces: true
 
-    - image_path: /assets/images/GenAIECommerce2024/manisha.jpg
+    - image_path: /assets/images/GenAIECommerce2024/manisha.jpeg
       alt: "Manisha Verma"
       title: "Manisha Verma"
       excerpt: |
@@ -53,7 +53,7 @@ keynote:
 
       spaces: true
 
-    - image_path: /assets/images/GenAIECommerce2024/Xia.png
+    - image_path: /assets/images/GenAIECommerce2024/Xia.jpeg
       alt: "Xia Ning"
       title: "Xia Ning"
       excerpt: |
@@ -70,7 +70,7 @@ keynote:
 
 organizers:
 
-    - image_path: /assets/images/GenAIECommerce2024/Mansi.jpg
+    - image_path: /assets/images/GenAIECommerce2024/Mansi.jpeg
       alt: "Mansi Mane"
       excerpt: >
         **Mansi Mane**<br>
@@ -78,7 +78,7 @@ organizers:
       bio: >
         Mansi Mane is Staff Data Scientist at Search and Recommendation team in Walamrt Labs. She completed her Masters from Carnegie Mellon University in 2018. She currently focuses on research and development of machine learning algorithms for recommendations, search, marketing as well as content generation. Mansi was previously Applied Scientist at AWS where she lead efforts for training of billion scale large language models from scratch. Her research interests include machine learning, multimodal LLMs pretraining, fine-tuning as well as in-context learning.
         
-    - image_path: /assets/images/GenAIECommerce2024/Djordje.jpg
+    - image_path: /assets/images/GenAIECommerce2024/Djordje.jpeg
       alt: "Djordje Gligorijevic"
       excerpt: >
         **Djordje Gligorijevic**<br>
@@ -87,7 +87,7 @@ organizers:
         Djordje Gligorijevic is applied sciences manager at eBay, leading allocation and pricing team in eBay’s sponsored search program. Prior to eBay Djordje worked as Research Scientist in Yahoo Research. He received the Ph.D. degree from Temple University, Philadelphia, PA, in 2018. His research interests include Machine Learning, Extreme Multi-Label Classification, NLP, LLMs, and the Integration of Qualitative Knowledge into predictive models with applications in domains of Computational Healthcare, Computational Advertising, Search, Ranking, and Recommendation Systems. Djordje has published at international conferences such as AAAI, KDD, TheWebConf, SDM, CIKM, SIGIR, as well as in international journals like Data Mining and Knowledge Discovery, BigData journal where he serves as associate editor, Methods and Nature’s Scientific Reports.
 
 
-    - image_path: /assets/images/GenAIECommerce2024/wang.jpg
+    - image_path: /assets/images/GenAIECommerce2024/wang.jpeg
       alt: "Dingxian Wang"
       excerpt: >
         **Dingxian Wang**<br>
@@ -95,7 +95,7 @@ organizers:
       bio: >
         Dingxian is a Applied Science leader with around 10 years industry experience at the intersection of machine learning, software engineering, applied science, and product development. He is passionate about applying skills to solving real-world problems, especially in the field of technology and data science. He is currently leading a team focus on the ranking, personalization and recommendation in the search area. Throughout the career, Dingxian has been involved in a wide range of areas, including search engine, query understanding, recall system, ranking system, recommender system, marketing science, personalization, information extraction, knowledge graph etc. With massive proven track records of delivering great business results, and drove hundreds of millions of dollars in GMV and revenue growth. Dingxian has received many top honors and awards ranging from top conference, journals, patents to top research projects as well as internal competition awards. Including 20+ papers on top conference and journals (one best paper candidate of CIKM 2021), 9 US patents, over 1500 citations, ICT Research Project of the Year 2021 of ACS (Australian Computer Society) and eBay Leaders’ Choice Award.
 
-    - image_path: /assets/images/GenAIECommerce2024/Behzad.jpg
+    - image_path: /assets/images/GenAIECommerce2024/Behzad.jpeg
       alt: "Behzad Shahrasbi"
       excerpt: >
         **Behzad Shahrasbi**<br>
@@ -103,7 +103,7 @@ organizers:
       bio: >
         Behzad Shahrasbi is Manager of Applied Science at Amazon. His team leads the efforts to proactively detect and prevent catalog abuse and protect brands at scale. His career also includes significant tenures at Walmart, SmartDrive Systems, and Nokia. Behzad research interests span NLP, Mulitimodal Representations, Recommender Systems, and Privacy-Preserving ML. Post completeion of his PhD, Behzad has published in several journals and conferences, including ICML, IEEE Trans. on Big Data, ICCV, and ICASP.
 
-    - image_path: /assets/images/GenAIECommerce2024/topojoy.png
+    - image_path: /assets/images/GenAIECommerce2024/topojoy.jpeg
       alt: "Topojoy Biswas"
       excerpt: >
         **Topojoy Biswas**<br>
@@ -111,7 +111,7 @@ organizers:
       bio: >
         Topojoy Biswas is Distinguished Data Scientist at Walmart Labs. At Walmart he leads efforts related to W+ membership models and creative generation projects. Prior to Walmart he worked as Principal Engineer at Yahoo Research where he worked on information extraction on text and videos in Yahoo Knowledge Graph which powers search and information organization in products in Yahoo, like Finance, Sports, entity search and browse. Before Yahoo Knowledge graphs, he worked for Yahoo shopping on attribute extraction and classification of shopping feeds into large taxonomies of products. Topojoy has published in multiple international conferences such as ICIP, ACM Multimedia etc and has spoken on applied machine learning topics in MLConf, KGC etc.
 
-    - image_path: /assets/images/GenAIECommerce2024/Evren.jpg
+    - image_path: /assets/images/GenAIECommerce2024/Evren.jpeg
       alt: "Evren Korpeoglu"
       excerpt: >
         **Evren Korpeoglu**<br>
@@ -119,7 +119,7 @@ organizers:
       bio: >
         Evren Korpeoglu is a Director of Data Science at Personalization and Recommendations team in Walmart Global Tech. At Walmart he leads efforts related to whole page optimization, item recommendations as well as using Generative AI based models for recommendations. He completed his Ph.D. from Bikent University. He has published at international conferences like NeurIPS, ICML, SIGKDD.
 
-    - image_path: /assets/images/GenAIECommerce2024/marios.jpg
+    - image_path: /assets/images/GenAIECommerce2024/marios.jpeg
       alt: "Marios Savvides"
       excerpt: >
         **Marios Savvides**<br>
