@@ -71,11 +71,11 @@ We will welcome papers that leverage Generative Artificial Intelligence (Gen AI)
 
   
 ### Organizers:
-- Mansi Mane, Walmart Labs
+- Mansi Mane, Walmart Global Tech
 - Djordje Gligorijevic, eBay
 - Dingxian Wang, Upwork
 - Behzad Shahrasbi, Amazon
-- Topojoy Biswas, Walmart Labs
-- Evren Korpeoglu, Walmart Labs
+- Topojoy Biswas, Walmart Global Tech
+- Evren Korpeoglu, Walmart Global Tech
 - Marios Savvides, CMU, Ultron AI
 
