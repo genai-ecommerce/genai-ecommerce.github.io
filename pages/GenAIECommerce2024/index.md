@@ -74,7 +74,7 @@ organizers:
       alt: "Mansi Mane"
       excerpt: >
         **Mansi Mane**<br>
-        Walmart Labs
+        Walmart Global Tech
       bio: >
         Mansi Mane is Staff Data Scientist at Search and Recommendation team in Walamrt Labs. She completed her Masters from Carnegie Mellon University in 2018. She currently focuses on research and development of machine learning algorithms for recommendations, search, marketing as well as content generation. Mansi was previously Applied Scientist at AWS where she lead efforts for training of billion scale large language models from scratch. Her research interests include machine learning, multimodal LLMs pretraining, fine-tuning as well as in-context learning.
         
@@ -107,7 +107,7 @@ organizers:
       alt: "Topojoy Biswas"
       excerpt: >
         **Topojoy Biswas**<br>
-        Walmart Labs
+        Walmart Global Tech
       bio: >
         Topojoy Biswas is Distinguished Data Scientist at Walmart Labs. At Walmart he leads efforts related to W+ membership models and creative generation projects. Prior to Walmart he worked as Principal Engineer at Yahoo Research where he worked on information extraction on text and videos in Yahoo Knowledge Graph which powers search and information organization in products in Yahoo, like Finance, Sports, entity search and browse. Before Yahoo Knowledge graphs, he worked for Yahoo shopping on attribute extraction and classification of shopping feeds into large taxonomies of products. Topojoy has published in multiple international conferences such as ICIP, ACM Multimedia etc and has spoken on applied machine learning topics in MLConf, KGC etc.
 
@@ -115,7 +115,7 @@ organizers:
       alt: "Evren Korpeoglu"
       excerpt: >
         **Evren Korpeoglu**<br>
-        Walmart labs
+        Walmart Global Tech
       bio: >
         Evren Korpeoglu is a Director of Data Science at Personalization and Recommendations team in Walmart Global Tech. At Walmart he leads efforts related to whole page optimization, item recommendations as well as using Generative AI based models for recommendations. He completed his Ph.D. from Bikent University. He has published at international conferences like NeurIPS, ICML, SIGKDD.
 
