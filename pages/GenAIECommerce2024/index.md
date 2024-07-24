@@ -126,6 +126,8 @@ organizers:
         CMU, UltronAI
       bio: >
         Professor 
+                
+---
 
 <!-- <div class="notice--info">
   <!-- <h4 class="no_toc">Notice Headline:</h4> ~~>
