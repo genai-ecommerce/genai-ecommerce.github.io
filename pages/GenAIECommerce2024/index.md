@@ -125,14 +125,7 @@ organizers:
         **Marios Savvides**<br>
         CMU, UltronAI
       bio: >
-        Professor Marios Savvides is the Bossa Nova Robotics Professor of Artificial Intelligence at Carnegie Mellon University and is also the Founder and Director of the Biometrics Center at Carnegie Mellon University and a Full Tenured Professor in the Electrical and Computer Engineering Department. He received his Bachelor of Engineering in Microelectronics Systems Engineering from University of Manchester Institute of Science and Technology in 1997 in the United Kingdom, his Master of Science in Robotics from the Robotics Institute in 2000 and his PhD from the Electrical and Computer Engineering department at CMU in 2004. 
-
-
-He has authored and co-authored over 250 journal and conference publications, including 22 book chapters and served as the area editor of the Springer’s Encyclopedia of Biometrics. Some of his notable accomplishments include developing a 40ft stand-off distance iris recognition system, robust face detection even in presence of extreme occlusions,  a fully autonomous AI inventory robotic image analytics system for detecting out-of-stocks that he and his team scaled to 550 walmart retail stores. His latest research is in large foundation vision models for zero shot enrollment for robust object recognition which has spun out as the enterprise software company UltronAI, Inc.  
-
-His work was presented at the World Economic Forum (WEF) in Davos, Switzerland in January 2018 and his research has been featured in over 100 news media articles (CNN, CBS 60 minutes, Scientific American, Popular Mechanics etc). 
-
-He is the recipient of CMU’s 2009 Carnegie Institute of Technology (CIT) Outstanding Research Award,  the Gold Award in the 2015 Edison Awards in Applied Technologies for his biometrics work, 2018 Global Pittsburgh Immigrant Entrepreneur Award in Technological Innovation, the 2020 Artificial Intelligence Excellence Award in “Theory of Mind”, the Gold Award in 2020 Edison Awards for Retail Innovations on Autonomous Data Capture and Analysis of On-Shelf Inventory, the “Stevens J. Fenves Award for Systems Research”,  the “2020 Outstanding Contributor to AI” award from the US Secretary of the Army Mr. Ryan McCarthy, named the “Inventor of Year” by the  Pittsburgh Intellectual Property Law Association (PIPLA), 2022.
+        Professor 
 
 <!-- <div class="notice--info">
   <!-- <h4 class="no_toc">Notice Headline:</h4> ~~>
