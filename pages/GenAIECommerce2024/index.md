@@ -133,9 +133,6 @@ He has authored and co-authored over 250 journal and conference publications, in
 His work was presented at the World Economic Forum (WEF) in Davos, Switzerland in January 2018 and his research has been featured in over 100 news media articles (CNN, CBS 60 minutes, Scientific American, Popular Mechanics etc). 
 
 He is the recipient of CMU’s 2009 Carnegie Institute of Technology (CIT) Outstanding Research Award,  the Gold Award in the 2015 Edison Awards in Applied Technologies for his biometrics work, 2018 Global Pittsburgh Immigrant Entrepreneur Award in Technological Innovation, the 2020 Artificial Intelligence Excellence Award in “Theory of Mind”, the Gold Award in 2020 Edison Awards for Retail Innovations on Autonomous Data Capture and Analysis of On-Shelf Inventory, the “Stevens J. Fenves Award for Systems Research”,  the “2020 Outstanding Contributor to AI” award from the US Secretary of the Army Mr. Ryan McCarthy, named the “Inventor of Year” by the  Pittsburgh Intellectual Property Law Association (PIPLA), 2022.
-        
----
-
 
 <!-- <div class="notice--info">
   <!-- <h4 class="no_toc">Notice Headline:</h4> ~~>
