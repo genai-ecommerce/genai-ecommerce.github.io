@@ -125,7 +125,8 @@ organizers:
         **Marios Savvides**<br>
         CMU, UltronAI
       bio: >
-        Professor 
+        Professor Marios Savvides is the Bossa Nova Robotics Professor of Artificial Intelligence at Carnegie Mellon University and is also the Founder and Director of the Biometrics Center at Carnegie Mellon University and a Full Tenured Professor in the Electrical and Computer Engineering Department. He received his Bachelor of Engineering in Microelectronics Systems Engineering from University of Manchester Institute of Science and Technology in 1997 in the United Kingdom, his Master of Science in Robotics from the Robotics Institute in 2000 and his PhD from the Electrical and Computer Engineering department at CMU in 2004. 
+        He has authored and co-authored over 250 journal and conference publications, including 22 book chapters and served as the area editor of the Springer’s Encyclopedia of Biometrics. Some of his notable accomplishments include developing a 40ft stand-off distance iris recognition system, robust face detection even in presence of extreme occlusions,  a fully autonomous AI inventory robotic image analytics system for detecting out-of-stocks that he and his team scaled to 550 walmart retail stores. His latest research is in large foundation vision models for zero shot enrollment for robust object recognition which has spun out as the enterprise software company UltronAI, Inc.  
                 
 ---
 
