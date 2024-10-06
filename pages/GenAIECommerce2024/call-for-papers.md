@@ -66,7 +66,7 @@ We will welcome papers that leverage Generative Artificial Intelligence (Gen AI)
 
 ### Confirmed speakers:
 - Himabindu Lakkaraju, Harvard University
-- Shahram Khadivi, eBay
+- Vinodh Kumar Sunkara, Meta
 - Manisha Verma, Amazon
 - Ning Xia, Ohio State University
 
