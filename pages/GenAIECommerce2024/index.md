@@ -58,16 +58,31 @@ keynote:
       title: "Xia Ning"
       excerpt: |
         ***Ohio State University*** <br>
-        **Title of the talk: TBD**
+        **Title of the talk: Generalizing Large Language Models for E-commerce from Large-scale, High-quality Instruction Data**
 
       abstract: >
-        Abstract.
+        With tremendous efforts in developing effective e-commerce models, conventional e-commerce models show limited success in generalist e-commerce modeling, and suffer from unsatisfactory performance on new users and new products – a typical out-of-domain generalization challenge. Meanwhile, large language models (LLMs) demonstrate outstanding performance in generalist modeling and out-of-domain generalizability in many fields. Toward fully unleashing their power for e- commerce, in this talk, I will present ECInstruct, the first open-sourced, large-scale, and high-quality benchmark instruction dataset for e-commerce. Leveraging ECInstruct, we develop eCeLLM, a series of e-commerce LLMs, by instruction-tuning general-purpose LLMs. Our comprehensive experiments and evaluation demonstrate that eCeLLM models substantially outperform baseline models, including the most advanced GPT-4 and the state-of-the-art task-specific models in in-domain evaluation. Moreover, eCeLLM exhibits excellent generalizability to out of-domain settings, including unseen products and unseen instructions, highlighting its superiority as a generalist e-commerce model. Both the ECInstruct dataset and the eCeLLM models show great potential in empowering versatile and effective LLMs for e- commerce. ECInstruct and eCeLLM models are publicly accessible through https://ninglab.github.io/eCeLLM/.
       
       bio: >
         Ning was trained as a Computer Scientist. Ning’s research is on Data Mining, Machine Learning and Big Data Analytics, and their applications in Chemical Informatics, Drug Development, Medical Informatics and Health Informatics. She develops efficient data mining and machine learning methodologies to facilitate rapid and targeted exploration over chemical and biological spaces, and effective computational algorithms (e.g., recommendation, information retrivial) to analyze medical and healthcare data (e.g., electronic medical records, pharmacovigilance data). Her Ph.D. thesis was on Recommender Systems. Her research is currently supported by NSF and NIH.
 
       spaces: true
 
+    - image_path: /assets/images/GenAIECommerce2024/Vinod.jpg
+      alt: "Vinodh Kumar Sunkara"
+      title: "Vinodh Kumar Sunkara"
+      excerpt: |
+        ***Meta*** <br>
+        **Title of the talk: LLM integrated Meta Ad Promotion Sourcing**
+
+      abstract: >
+        In this talk, we will explore the end-to-end delivery journey of promotional ads at Meta and how Large Language Models (LLMs) can be leveraged to extract promotional information from various sources such as advertisers, website crawling, and product catalogs. We will discuss the challenges associated with traditional ML/Regex-based approaches for promo extraction and how in-context learning and prompt optimizations can further improve performance of LLM solutions. We will also delve into the technical details of scaling GenAI infrastructure to launch in production and the offline/online evaluation criteria used to assess the right candidate.
+      
+      bio: >
+        With ~6.5 years of experience at Meta on different ML/AI products including Search, Recommendations, Integrity and Ads. Currently, EM for Promo Ads team, solving sourcing and personalization problems for promo ad creation. Educational background: MBA, Berkeley Haas; MS in CS, ML/AI specialization, GeorgiaTech; B.Tech in CS, IIT Kharagpur. 
+
+      spaces: true
+      
 organizers:
 
     - image_path: /assets/images/GenAIECommerce2024/Mansi.jpeg
