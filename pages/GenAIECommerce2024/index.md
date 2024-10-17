@@ -177,8 +177,6 @@ We will welcome papers that leverage Generative Artificial Intelligence (Gen AI)
 - Paper acceptance notification: 30 August 2024
 - Workshop: 25 October 2024
 
-<!---
-
 # Schedule
 
 We have a full-day program on Oct 25 at ***TBD, Boise, Idaho***. 
@@ -203,7 +201,6 @@ We have a full-day program on Oct 25 at ***TBD, Boise, Idaho***.
 <div class="small">
 {{ schedule | markdownify }}
 </div>
--->
 
 
 # Keynote Speakers
