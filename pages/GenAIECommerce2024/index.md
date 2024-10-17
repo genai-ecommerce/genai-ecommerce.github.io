@@ -185,10 +185,20 @@ We have a full-day program on Oct 25 at ***TBD, Boise, Idaho***.
 
 | Time (PDT) | Agenda |
 | ----------------- | ------------ |
-| **8:00-8:10am**    | **Opening remarks** |
-| **8:10-8:50am**    | **[Keynote by TBD TBD](#TBD+TBD) (40 min)**: <br> XYZ |
-| **15:00-16:00pm**    | **[Panel Discussion](#TBD+TBD) (60 min)**<br>**Moderator**:TBD<br>**Panelists**: TBD, TBD, TBD|
-| **16:00-16:10pm**    | **Closing Remarks** |
+| **9:00-9:10am**    | **Registration and Welcome** |
+| **9:10-9:50am**    | **[Keynote by Himabindu Lakkaraju](#Himabindu+Lakkaraju) (40 min)** |
+| **9:50-10:30am**    | **[Keynote by Ning Xia](#Ning+Xia) (40 min)** |
+| **10:30-11:00am**    | **Coffee Break** |
+| **11:00-11:15am**    | **Paper Presentation 1 (10 min) + Q&A (5 min) ** |
+| **11:15-11:30am**    | **Paper Presentation 2 (10 min) + Q&A (5 min) ** |
+| **11:30-12:10pm**    | **[Keynote by Manisha Verma](#Manisha+Verma) (40 min)** |
+| **12:10-12:25pm**    | **Paper Presentation 3 (10 min) + Q&A (5 min) ** |
+| **12:25-12:40pm**    | **Paper Presentation 4 (10 min) + Q&A (5 min) ** |
+| **12:45-1:45pm**    | **Lunch Break** |
+| **1:45-2:25pm**    | **[Keynote by Vinodh Kumar Sunkara](#Vinodh+Kumar+Sunkara) (40 min)** |
+| **2:25-3:30pm**    | **Poster Session** |
+| **3:30-4:00pm**    | **Coffee Break** |
+| **4:00-5:00pm**    | **[Panel Discussion](#panelists) (60 min)**<br>TBD<br>**Panelists**: TBD, TBD, TBD |
 
 <div class="small">
 {{ schedule | markdownify }}
