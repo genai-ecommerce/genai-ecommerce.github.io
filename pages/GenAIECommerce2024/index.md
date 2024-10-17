@@ -187,11 +187,11 @@ We have a full-day program on Oct 25 at ***TBD, Boise, Idaho***.
 | **9:10-9:50am**    | **[Keynote by Himabindu Lakkaraju](#Himabindu+Lakkaraju) (40 min)** |
 | **9:50-10:30am**    | **[Keynote by Ning Xia](#Ning+Xia) (40 min)** |
 | **10:30-11:00am**    | **Coffee Break** |
-| **11:00-11:15am**    | **Paper Presentation 1 (10 min) + Q&A (5 min) ** |
-| **11:15-11:30am**    | **Paper Presentation 2 (10 min) + Q&A (5 min) ** |
+| **11:00-11:15am**    | **Paper Presentation: LLM-Modulo-Rec: Leveraging Approximate World-Knowledge of LLMs to Improve eCommerce Search Ranking Under Data Paucity  (10 min) + Q&A (5 min) ** |
+| **11:15-11:30am**    | **Paper Presentation: Hierarchical Knowledge Graph Construction from Images for Scalable E-Commerce (10 min) + Q&A (5 min) ** |
 | **11:30-12:10pm**    | **[Keynote by Manisha Verma](#Manisha+Verma) (40 min)** |
-| **12:10-12:25pm**    | **Paper Presentation 3 (10 min) + Q&A (5 min) ** |
-| **12:25-12:40pm**    | **Paper Presentation 4 (10 min) + Q&A (5 min) ** |
+| **12:10-12:25pm**    | **Paper Presentation: ReScorer- An Aggregation and Alignment Technique for Building Trust into LLM Reason (10 min) + Q&A (5 min) ** |
+| **12:25-12:40pm**    | **Paper Presentation: Decoding Style: Efficient Fine-Tuning of LLMs for Image-Guided Outfit Recommendation with Preference Feedback (10 min) + Q&A (5 min) ** |
 | **12:45-1:45pm**    | **Lunch Break** |
 | **1:45-2:25pm**    | **[Keynote by Vinodh Kumar Sunkara](#Vinodh+Kumar+Sunkara) (40 min)** |
 | **2:25-3:30pm**    | **Poster Session** |
