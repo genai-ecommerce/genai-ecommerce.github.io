@@ -9,7 +9,7 @@
   authors: Samah Albast, Wassim El-Hajj, Hazem Hajj, Khaled Shaban and Shady Elbassuoni
   abstract: >
     Negotiation is a fundamental aspect of human interaction. With recent advancements in chatbots, leveraging artificial intelligence for negotiation has emerged as an ideal application. Despite significant progress in English negotiation bots, such advancements are notably absent in Arabic. Furthermore, while previous research has focused on developing high-performing neural response generation systems for negotiation bots, the integration of multi-modality remains unexplored. This work presents the first Arabic multi-modal negotiation bot presented by a seller agent capable of engaging in negotiations with buyers in the context of item sales. This seller agent is designed to understand the buyer's Arabic utterances and to interpret the negotiation context through images provided by the buyer. To achieve this, we fine-tuned a generative pre-trained transformer (GPT-2) model on an Arabic dataset, integrating it with reinforcement learning for more coherent and persuasive responses, and a convolutional neural network to support multimodality. To evaluate our model, we relied on both automatic evaluation using established metrics such as cross-entropy loss and the BLEU score, as well as human evaluation in terms of fluency, consistency and persuasion. Our evaluation results reveal both the successes and limitations of the designed multi-modal Arabic negotiation bot, offering insights into the inherent challenges and setting directions for future research.
-  PDF: /assets/papers/GenAIEcommerce2024/paper5.pdf
+  PDF: /assets/papers/GenAIEcommerce2024/paperfive.pdf
   code: NA
   new_dataset: False
 
