@@ -43,10 +43,10 @@ keynote:
       title: "Manisha Verma"
       excerpt: |
         ***Amazon*** <br>
-        **Title of the talk: TBD**
+        **Title of the talk: Harnessing creativity with foundational models! **
 
       abstract: >
-        Abstract.
+        We all have witnessed advertisements in some form or another through our childhood and adult lives. However, there is slowly a paradigm shift in how these advertisements are created (sometimes at scale) today with the proliferation of both language and multimodal models. Advertising is a high churn, seasonal and personalized industry, which poses interesting challenges for developing, evaluating, and productionizing these models. While we wish to harness the inherent creativity of these models (hallucinations here are a good thing for once!), there are critical things that still need to be factually correct, free from location, population, or gender bias especially when we want to reach millions of users in real time. In this talk I wish to give you an overview of some of our past work, recent developments and our experience in launching some interesting tools for advertisers at scale. 
       
       bio: >
         Manisha Verma is a Scientist at Amazon, NYC. She completed her PhD from University College London. Some of her recent work has been published at conferences such as WWW, RecSys, CIKM, WSDM and SIGIR. Over the past few years, she has worked with researchers at Google, Microsoft and Yahoo on improving advertisements. She has served on the program committee for WWW’22, SIGIR’21, ECIR’21, NAACL’20, NeuroIR17, DSHCM’17,’18, LearnIR’18 and CIKM’21.
@@ -184,12 +184,12 @@ We have a full-day program on Oct 25 at ***TBD, Boise, Idaho***.
 | Time (PDT) | Agenda |
 | ----------------- | ------------ |
 | **9:00-9:10am**    | **Registration and Welcome** |
-| **9:10-9:50am**    | **[Keynote by Himabindu Lakkaraju](#Himabindu+Lakkaraju) (40 min)** |
+| **9:10-9:50am**    | **[Keynote by Himabindu Lakkaraju](#Himabindu+Lakkaraju) : Mechanics and Ethics of Search Engine Optimization in the Era of LLMs ** |
 | **9:50-10:30am**    | **[Keynote by Ning Xia](#Ning+Xia) (40 min)** |
 | **10:30-11:00am**    | **Coffee Break** |
 | **11:00-11:15am**    | **Paper Presentation: LLM-Modulo-Rec: Leveraging Approximate World-Knowledge of LLMs to Improve eCommerce Search Ranking Under Data Paucity  (10 min) + Q&A (5 min) ** |
 | **11:15-11:30am**    | **Paper Presentation: Hierarchical Knowledge Graph Construction from Images for Scalable E-Commerce (10 min) + Q&A (5 min) ** |
-| **11:30-12:10pm**    | **[Keynote by Manisha Verma](#Manisha+Verma) (40 min)** |
+| **11:30-12:10pm**    | **[Keynote by Manisha Verma](#Manisha+Verma) : Harnessing creativity with foundational model (40 min)** |
 | **12:10-12:25pm**    | **Paper Presentation: ReScorer- An Aggregation and Alignment Technique for Building Trust into LLM Reason (10 min) + Q&A (5 min) ** |
 | **12:25-12:40pm**    | **Paper Presentation: Decoding Style: Efficient Fine-Tuning of LLMs for Image-Guided Outfit Recommendation with Preference Feedback (10 min) + Q&A (5 min) ** |
 | **12:45-1:45pm**    | **Lunch Break** |
