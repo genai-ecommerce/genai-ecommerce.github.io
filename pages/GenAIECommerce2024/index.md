@@ -28,7 +28,7 @@ keynote:
       title: "Himabindu Lakkaraju"
       excerpt: |
         ***Harvard University*** <br>
-        **Title of the talk: TBD**
+        **Mechanics and Ethics of Search Engine Optimization in the Era of LLMs**
 
       abstract: >
         Abstract.
@@ -42,8 +42,8 @@ keynote:
       alt: "Manisha Verma"
       title: "Manisha Verma"
       excerpt: |
-        ***Amazon*** <br>
-        **Title of the talk: Harnessing creativity with foundational models! **
+        ***JP Morgan Chase*** <br>
+        **Harnessing creativity with foundational models!**
 
       abstract: >
         We all have witnessed advertisements in some form or another through our childhood and adult lives. However, there is slowly a paradigm shift in how these advertisements are created (sometimes at scale) today with the proliferation of both language and multimodal models. Advertising is a high churn, seasonal and personalized industry, which poses interesting challenges for developing, evaluating, and productionizing these models. While we wish to harness the inherent creativity of these models (hallucinations here are a good thing for once!), there are critical things that still need to be factually correct, free from location, population, or gender bias especially when we want to reach millions of users in real time. In this talk I wish to give you an overview of some of our past work, recent developments and our experience in launching some interesting tools for advertisers at scale. 
@@ -58,7 +58,7 @@ keynote:
       title: "Xia Ning"
       excerpt: |
         ***Ohio State University*** <br>
-        **Title of the talk: Generalizing Large Language Models for E-commerce from Large-scale, High-quality Instruction Data**
+        **Generalizing Large Language Models for E-commerce from Large-scale, High-quality Instruction Data**
 
       abstract: >
         With tremendous efforts in developing effective e-commerce models, conventional e-commerce models show limited success in generalist e-commerce modeling, and suffer from unsatisfactory performance on new users and new products – a typical out-of-domain generalization challenge. Meanwhile, large language models (LLMs) demonstrate outstanding performance in generalist modeling and out-of-domain generalizability in many fields. Toward fully unleashing their power for e- commerce, in this talk, I will present ECInstruct, the first open-sourced, large-scale, and high-quality benchmark instruction dataset for e-commerce. Leveraging ECInstruct, we develop eCeLLM, a series of e-commerce LLMs, by instruction-tuning general-purpose LLMs. Our comprehensive experiments and evaluation demonstrate that eCeLLM models substantially outperform baseline models, including the most advanced GPT-4 and the state-of-the-art task-specific models in in-domain evaluation. Moreover, eCeLLM exhibits excellent generalizability to out of-domain settings, including unseen products and unseen instructions, highlighting its superiority as a generalist e-commerce model. Both the ECInstruct dataset and the eCeLLM models show great potential in empowering versatile and effective LLMs for e- commerce. ECInstruct and eCeLLM models are publicly accessible through https://ninglab.github.io/eCeLLM/.
