@@ -68,7 +68,7 @@ keynote:
 
       spaces: true
 
-    - image_path: /assets/images/GenAIECommerce2024/Vinod.jpg
+    - image_path: /assets/images/GenAIECommerce2024/Vinod.jpeg
       alt: "Vinodh Kumar Sunkara"
       title: "Vinodh Kumar Sunkara"
       excerpt: |
