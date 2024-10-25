@@ -196,8 +196,7 @@ We have a full-day program on Oct 25 at ***TBD, Boise, Idaho***.
 | **1:45-2:25pm**    | **[Keynote by Vinodh Kumar Sunkara](#Vinodh+Kumar+Sunkara) (40 min)** |
 | **2:25-3:30pm**    | **Poster Session** |
 | **3:30-4:00pm**    | **Coffee Break** |
-| **4:00-5:00pm**    | **[GenAI for Ecommerce Search & Recommendations](#panelists) (60 min)**<br>Tracy Holloway King <br>**Panelists**: Vamsi Salaka (Amazon)
-,  Dingxian Wang (Upwork), Topojoy Biswas (Walmart), Aditya Chichani (Walmart)|
+| **4:00-5:00pm**    | **[GenAI for Ecommerce Search & Recommendations](#panelists) (60 min)**<br>Tracy Holloway King <br>**Panelists**: Vamsi Salaka (Amazon),  Dingxian Wang (Upwork), Topojoy Biswas (Walmart), Aditya Chichani (Walmart)|
 
 <div class="small">
 {{ schedule | markdownify }}
