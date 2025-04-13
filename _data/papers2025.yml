@@ -1,0 +1,14 @@
+# - title: 
+#   authors: 
+#   abstract: 
+#   PDF: 
+#   code: 
+#   new_dataset: True
+
+- title: "Dummy Paper for GenAIEcommerce 2025"
+  authors: "Sample Author"
+  abstract: >
+    This is a placeholder paper for the GenAIEcommerce 2025 workshop. The actual accepted papers will be added here once they are available.
+  PDF: /assets/papers/GenAIECommerce2025/dummy_paper.pdf
+  code: NA
+  new_dataset: False 
