@@ -64,13 +64,6 @@ organizers:
       bio: >
         Dingxian is a Applied Science leader with around 10 years industry experience at the intersection of machine learning, software engineering, applied science, and product development. He is passionate about applying skills to solving real-world problems, especially in the field of technology and data science. He is currently leading a team focus on the ranking, personalization and recommendation in the search area. Throughout the career, Dingxian has been involved in a wide range of areas, including search engine, query understanding, recall system, ranking system, recommender system, marketing science, personalization, information extraction, knowledge graph etc. With massive proven track records of delivering great business results, and drove hundreds of millions of dollars in GMV and revenue growth. Dingxian has received many top honors and awards ranging from top conference, journals, patents to top research projects as well as internal competition awards. Including 20+ papers on top conference and journals (one best paper candidate of CIKM 2021), 9 US patents, over 1500 citations, ICT Research Project of the Year 2021 of ACS (Australian Computer Society) and eBay Leaders' Choice Award.
 
-    - image_path: /assets/images/GenAIECommerce2025/Behzad.jpeg
-      alt: "Behzad Shahrasbi"
-      excerpt: >
-        **Behzad Shahrasbi**<br>
-        Amazon
-      bio: >
-        Behzad Shahrasbi is Manager of Applied Science at Amazon. His team leads the efforts to proactively detect and prevent catalog abuse and protect brands at scale. His career also includes significant tenures at Walmart, SmartDrive Systems, and Nokia. Behzad research interests span NLP, Mulitimodal Representations, Recommender Systems, and Privacy-Preserving ML. Post completeion of his PhD, Behzad has published in several journals and conferences, including ICML, IEEE Trans. on Big Data, ICCV, and ICASP.
 
     - image_path: /assets/images/GenAIECommerce2025/topojoy.jpeg
       alt: "Topojoy Biswas"
