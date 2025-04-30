@@ -57,7 +57,7 @@ We will welcome papers that leverage Generative Artificial Intelligence (Gen AI)
   - **A:** Yes, particularly if they are recent and highly relevant to the workshop's theme. However, consider any restrictions from the original publication venue.
 
 ### Confirmed speakers:
-- Xia Ning, Ohio State University
+- TBD
 
 ### Organizers:
 - Mansi Mane, Walmart Global Tech
