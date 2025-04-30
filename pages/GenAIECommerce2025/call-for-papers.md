@@ -33,9 +33,10 @@ We will welcome papers that leverage Generative Artificial Intelligence (Gen AI)
 
 ### Important dates
 
-- Paper submission deadline: TBD
-- Paper acceptance notification: TBD
-- Camera-ready manuscript deadline: TBD
+
+- Paper submission deadline: August 7, 2025 
+- Paper acceptance notification: August 25, 2025
+- Camera-ready manuscript deadline: September 4, 2025
 - Workshop: September 22, 2025
 
 ### Submission Instructions:
