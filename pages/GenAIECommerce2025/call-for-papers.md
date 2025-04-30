@@ -22,10 +22,9 @@ We will welcome papers that leverage Generative Artificial Intelligence (Gen AI)
 -     Text: Explorations of generative large language models (LLMs) for creating or improving product descriptions, reviews, and personalized advertising content that enhances retrieval and user engagement.
 -     Image: Explorations of generative image models for creating new product images or enhancing the existing ones, generating personalized marketing images, or other visual forms of communicating products with customers.
 -     Audio, Video and Multimodal: Using large multi-modal generative models for creating product videos, improving quality of existing videos, integrating them with the platform, all in service of producing a seamless user experience in multi-modal e-commerce world.
-- 
 - LLM-driven generation of browsing and search recommendations, e.g. in situations of low recall.
 - LLM driven recommendations explainability by providing additional context on displayed items
-- Gen AI powered advertising and promotion systems: Systems that go beyond traditional advertising offerings such as creating a purchase baskets of promoted listings with a comprehensive message to a user.
+-  Gen AI powered advertising and promotion systems: Sys- tems that go beyond traditional advertising offerings such as creating a purchase baskets of promoted listings with a comprehensive message to a user
 - Efficiency and scalability of Gen AI driven e-Commerce recommender system
 - Virtual Try-Ons: Using Gen AI to enable virtual try-ons, allowing customers to visualize products on themselves or desired builds for fashion or beauty e-commerce
 - Customer Service Automation: LLM-driven chatbots and virtual assistants that provide personalized customer service, support, and shopping assistance.
@@ -50,7 +49,7 @@ We will welcome papers that leverage Generative Artificial Intelligence (Gen AI)
 - **Q: Can I submit work currently under review elsewhere?**
   - **A:** Yes, as long as it conforms to the dual submission policies of both the workshop and the other venue.
 - **Q: Will the workshop papers be included in the main conference proceedings?**
-  - **A:** No, workshop papers will not be included in the main conference proceedings.
+  - **A:** No, workshop papers will not be included in the main conference proceedings. However we would likely include it on  ceur-ws.org. 
 - **Q: How should I maintain anonymity if I'm from industry?**
   - **A:** While author identities should remain undisclosed, it is permissible to mention organizations that provided significant resources or data in the paper, as long as specific personal or team details are not revealed.
 - **Q: Can previously published papers be submitted to the workshop?**
