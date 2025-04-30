@@ -81,6 +81,15 @@ organizers:
       bio: >
         Evren Korpeoglu is a Director of Data Science at Personalization and Recommendations team in Walmart Global Tech. At Walmart he leads efforts related to whole page optimization, item recommendations as well as using Generative AI based models for recommendations. He completed his Ph.D. from Bikent University. He has published at international conferences like NeurIPS, ICML, SIGKDD.
 
+    - image_path: /assets/images/GenAIECommerce2025/Evren.jpeg
+      alt: "Yongfeng Zhang"
+      excerpt: >
+        **Yongfeng Zhang**<br>
+        Rutgers University
+      bio: >
+        Yongfeng Zhang is an Assistant Professor in the Department of Computer Science at Rutgers University (The State University of New Jersey). His research interest is in Information Retrieval, Economics of Data Science, Explainable AI, Fairness in AI and AI Ethics. In the previous he was a postdoc advised by Prof. W. Bruce Croft in the Center for Intelligent Information Retrieval (CIIR) at UMass Amherst, and did his PhD and BE in Computer Science at Tsinghua University, with a BS in Economics at Peking Univeristy. He is a Siebel Scholar of the class 2015. Together with coauthors, he has been consistently working on explainable search and recommendation models, fairness-aware machine learning, conversational search and recommendation, neural logic/symbolic reasoning, economic machine learning , efficient/robust machine learning, knowledge graph embedding, legal/medical retrieval, as well as causal/counterfactual models for information retrieval. His recent research on causality in search and recommendation include causal collaborative filtering, causal explainable recommendation, counterfactual debiasing models, and causal models for mitigating feedback loops in IR systems. 
+
+
     - image_path: /assets/images/GenAIECommerce2025/marios.jpeg
       alt: "Marios Savvides"
       excerpt: >
@@ -91,6 +100,15 @@ organizers:
         He has authored and co-authored over 250 journal and conference publications, including 22 book chapters and served as the area editor of the Springer's Encyclopedia of Biometrics. Some of his notable accomplishments include developing a 40ft stand-off distance iris recognition system, robust face detection even in presence of extreme occlusions,  a fully autonomous AI inventory robotic image analytics system for detecting out-of-stocks that he and his team scaled to 550 walmart retail stores. His latest research is in large foundation vision models for zero shot enrollment for robust object recognition which has spun out as the enterprise software company UltronAI, Inc. 
         His work was presented at the World Economic Forum (WEF) in Davos, Switzerland in January 2018 and his research has been featured in over 100 news media articles (CNN, CBS 60 minutes, Scientific American, Popular Mechanics etc). 
         He is the recipient of CMU's 2009 Carnegie Institute of Technology (CIT) Outstanding Research Award,  the Gold Award in the 2015 Edison Awards in Applied Technologies for his biometrics work, 2018 Global Pittsburgh Immigrant Entrepreneur Award in Technological Innovation, the 2020 Artificial Intelligence Excellence Award in "Theory of Mind", the Gold Award in 2020 Edison Awards for Retail Innovations on Autonomous Data Capture and Analysis of On-Shelf Inventory, the "Stevens J. Fenves Award for Systems Research",  the "2020 Outstanding Contributor to AI" award from the US Secretary of the Army Mr. Ryan McCarthy, named the "Inventor of Year" by the  Pittsburgh Intellectual Property Law Association (PIPLA), 2022.
+
+    - image_path: /assets/images/GenAIECommerce2025/Evren.jpeg
+      alt: "Julian McAuley"
+      excerpt: >
+        **Julian McAuley**<br>
+        Walmart Global Tech
+      bio: >
+        McAuley is a professor in CSE. His research focuses on the linguistic, temporal, and social dimensions of opinions and behavior in social networks and other online communities. He has harnessed data science tools to increase understanding the facets of people’s opinions, the processes that lead people to acquire taste for gourmet foods and beers, and even the visual dimensions of how they make fashion choices. He has gained academic, industry and media attention for his work analyzing massive volumes of user data from online social communities including Amazon, Yelp, Facebook and BeerAdvocate. His work includes using artificial intelligence in fashion choice, and data science in developing models that generate step-charts for the globally popular videogame, Dance Dance Revolution.
+
 
 ---
 
@@ -103,8 +121,9 @@ We will welcome papers that leverage Generative Artificial Intelligence (Gen AI)
 ## Information for the day of the workshop
 
 **Workshop at RecSys2025**    
-- Paper submission deadline: TBD
-- Paper acceptance notification: TBD
+- Paper submission deadline: August 7, 2025 
+- Paper acceptance notification: August 25, 2025
+- Camera-ready manuscript deadline: September 4, 2025
 - Workshop: September 22, 2025
 
 # Schedule
