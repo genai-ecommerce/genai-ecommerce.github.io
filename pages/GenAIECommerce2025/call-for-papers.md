@@ -40,7 +40,7 @@ We will welcome papers that leverage Generative Artificial Intelligence (Gen AI)
 
 ### Submission Instructions:
 - **Paper Length:** Authors should submit papers with up to 5 pages, excluding references and supplementary materials.
-- **Submission Portal:** Please submit your papers via [Easychair](https://easychair.org/my/conference?conf=genaiecom25). Specific submission link and workshop ID will be provided soon.
+- **Submission Portal:** Please submit your papers via [Easychair](https://easychair.org/conferences2/submissions?a=34737905). The workshop name would appear as "The Second Workshop on Generative AI for E-commerce" on the submission portal [here](https://easychair.org/conferences/submission_new?a=34737905#{fr:SNQpQrQDkC6l}).
 - **Formatting Guidelines:** Manuscripts should be submitted in PDF format, using the 2-column [ACM sigconf template](https://www.acm.org/publications/proceedings-template), see 
 - **Anonymity Requirement:** Submissions must be fully anonymized to adhere to a double-blind review process.
 - **Dual Submission Policy:** The workshop welcomes both ongoing and unpublished work. Submissions under review or recently accepted at other venues are also eligible, provided they adhere to any overlapping publication policies.
