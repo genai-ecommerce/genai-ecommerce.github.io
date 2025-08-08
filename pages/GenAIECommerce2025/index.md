@@ -116,12 +116,12 @@ organizers:
 The "Gen AI for E-commerce" workshop explores the role of Generative Artificial Intelligence in transforming e-commerce through enhanced user experience and operational efficiency. E-commerce companies grapple with multiple challenges such as lack of quality content for products, subpar user experience, sparse datasets etc. Gen AI offers significant potential to address these complexities. Yet, deploying these technologies at scale presents challenges such as hallucination in data, excessive costs, increased latency response, and limited generalization in sparse data environments. This workshop will bring together experts from academia and industry to discuss these challenges and opportunities, aiming to showcase case studies, breakthroughs, and insights into practical implementations of Gen AI in e-commerce. 
 
 # Call for papers
-We will welcome papers that leverage Generative Artificial Intelligence (Gen AI) in e-commerce. Detailed topics are mentioned in [CFP](https://genai-ecommerce.github.io/GenAIECommerce2025/call-for-papers). Papers can be submitted at [Easychair](https://easychair.org/my/conference?conf=genaiecom25).
+We will welcome papers that leverage Generative Artificial Intelligence (Gen AI) in e-commerce. Detailed topics are mentioned in [CFP](https://genai-ecommerce.github.io/GenAIECommerce2025/call-for-papers). Papers can be submitted at [Easychair](https://easychair.org/conferences?conf=recsys2025workshops).
 
 ## Information for the day of the workshop
 
 **Workshop at RecSys2025**    
-- Paper submission deadline: August 7, 2025 
+- Paper submission deadline: August 10, 2025 
 - Paper acceptance notification: August 25, 2025
 - Camera-ready manuscript deadline: September 4, 2025
 - Workshop: September 22, 2025
