@@ -23,17 +23,17 @@ navigation:
 
 keynote: 
     - image_path: /assets/images/GenAIECommerce2025/Xia.jpeg
-      alt: "Xia Ning"
-      title: "Xia Ning"
+      alt: "Chen Luo"
+      title: "Chen Luo"
       excerpt: |
-        ***Ohio State University*** <br>
-        **Generalizing Large Language Models for E-commerce from Large-scale, High-quality Instruction Data**
+        ***Amazon*** <br>
+        **From Search to Conversational Shopping with Generative AI**
 
       abstract: >
-        With tremendous efforts in developing effective e-commerce models, conventional e-commerce models show limited success in generalist e-commerce modeling, and suffer from unsatisfactory performance on new users and new products – a typical out-of-domain generalization challenge. Meanwhile, large language models (LLMs) demonstrate outstanding performance in generalist modeling and out-of-domain generalizability in many fields. Toward fully unleashing their power for e- commerce, in this talk, I will present ECInstruct, the first open-sourced, large-scale, and high-quality benchmark instruction dataset for e-commerce. Leveraging ECInstruct, we develop eCeLLM, a series of e-commerce LLMs, by instruction-tuning general-purpose LLMs. Our comprehensive experiments and evaluation demonstrate that eCeLLM models substantially outperform baseline models, including the most advanced GPT-4 and the state-of-the-art task-specific models in in-domain evaluation. Moreover, eCeLLM exhibits excellent generalizability to out of domain settings, including unseen products and unseen instructions, highlighting its superiority as a generalist e-commerce model. Both the ECInstruct dataset and the eCeLLM models show great potential in empowering versatile and effective LLMs for e- commerce. ECInstruct and eCeLLM models are publicly accessible through https://ninglab.github.io/eCeLLM/.
+        The rapid growth of online shopping platforms such as Amazon has brought services to billions of people worldwide. With global retail sales surpassing $6 trillion in 2024 and is trending increase in 2025, customer expectations for personalized and seamless shopping experiences have never been higher. In this talk, I will share our multi years journey of reimagining online shopping at Amazon—transforming it from a product search problem into a conversational shopping experience powered by generative models. Specifically, I will cover: (1) How the product search engine traditionally worked. (2) How we began adopting conversational shopping and use language models for this new paradigm. (3) How we are building shopping agents that empower customers with richer, more personalized experiences.
       
       bio: >
-        Dr. Xia Ning is a Professor in the Biomedical Informatics Department (BMI), and the Computer Science and Engineering Department, The Ohio State University. She also holds a courtesy appointment with the Division of Medicinal Chemistry and Pharmacognosy, College of Pharmacy at OSU. She is the Section Chief of AI, Clinical Informatics, and Implementation Science at BMI, and the Associate Director of Biomedical Informatics at OSU Center for Clinical and Translational Science Institute (CTSI).  She received her Ph.D. in Computer Science and Engineering from the University of Minnesota, Twin Cities, in 2012. Ning's research is on Artificial Intelligence (AI) and Machine Learning with applications in health care and e-commerce. Her work on "SLIM: Sparse linear methods for top-n recommender systems" received the 10-Years-Highest-Impact-Paper Award, IEEE International Conference on Data Mining (ICDM) in 2020.
+        Chen is Sr. Applied Scientist at Amazon Search (previously known as A9). He obtained his Ph.D. from Rice University, working with Anshumali Shrivastava. Before Rice, he was a master student in Key Laboratory of Symbolic Computation and Knowledge Engineering, Jilin University. He recieved his B.S degree from the Department of Computer Science, Jilin University. 
 
       spaces: true
 
