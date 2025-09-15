@@ -133,7 +133,7 @@ We have a half-day program on September 22 at ***Prague, Czech Republic***.
 | Time (CET) | Agenda |
 | ----------------- | ------------ |
 | **9:00-9:10am**    | **Registration and Welcome** |
-| **9:10-9:50am**    | **[Keynote by Xia Ning](#Xia+Ning) : Generalizing Large Language Models for E-commerce from Large-scale, High-quality Instruction Data** |
+| **9:10-9:50am**    | **[Keynote by Chen Luo](#Xia+Ning) : From Search to Conversational Shopping with Generative AI** |
 | **9:50-10:30am**    | **Paper Presentations** |
 | **10:30-11:00am**    | **Coffee Break** |
 | **11:00-11:40am**    | **Panel Discussion** |
