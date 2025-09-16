@@ -132,12 +132,15 @@ We have a half-day program on September 22 at ***Prague, Czech Republic***.
 
 | Time (CET) | Agenda |
 | ----------------- | ------------ |
-| **9:00-9:10am**    | **Registration and Welcome** |
-| **9:10-9:50am**    | **[Keynote by Chen Luo](#Chen+Luo) : From Search to Conversational Shopping with Generative AI** |
-| **9:50-10:30am**    | **Paper Presentations** |
-| **10:30-11:00am**    | **Coffee Break** |
-| **11:00-11:40am**    | **Panel Discussion** |
-| **11:40-12:00pm**    | **Closing Remarks** |
+| **1:30-1:40pm**    | **Registration and Welcome** |
+| **1:40-1:55pm**    | **Paper Presentation: Mind the Gap: Bridging Behavioral Silos with LLMs in Multi-Vertical Recommendations** |
+| **1:55-2:10pm**    | **Paper Presentation: CRMAgent: A Multi-Agent LLM System for E-Commerce CRM Message Template Generation** |
+| **2:10-2:25pm**    | **Paper Presentation: Image-Seeking Intent Prediction for Cross-Device Product Search** |
+| **2:25-2:40pm**    | **Paper Presentation: TOD-ProcBench: Benchmarking Operating Procedure Compliance in Task-Oriented Dialogues** |
+| **2:40-2:55pm**    | **Paper Presentation: Enhancing Related Searches Recommendation System by Leveraging LLM Approaches** |
+| **3:30-4:00pm**    | **Coffee Break** |
+| **4:00-4:40pm**    | **[Keynote by Chen Luo](#Chen+Luo) : From Search to Conversational Shopping with Generative AI** |
+| **4:40-5:00pm**    | **Closing Remarks** |
 
 <div class="small">
 {{ schedule | markdownify }}

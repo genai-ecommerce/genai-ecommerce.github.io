@@ -1,14 +1,63 @@
-# - title: 
-#   authors: 
-#   abstract: 
-#   PDF: 
-#   code: 
-#   new_dataset: True
-
-- title: "Dummy Paper for GenAIEcommerce 2025"
-  authors: "Sample Author"
+- title: "Mind the Gap: Bridging Behavioral Silos with LLMs in Multi-Vertical Recommendations"
+  authors: "Martin Wang, Sudeep Das"
   abstract: >
-    This is a placeholder paper for the GenAIEcommerce 2025 workshop. The actual accepted papers will be added here once they are available.
-  PDF: /assets/papers/GenAIECommerce2025/dummy_paper.pdf
+    In multi-vertical e-commerce platforms like DoorDash, relatively newer product verticals such as grocery and retail present a significant opportunity for personalization innovation. A key challenge lies in solving the "cold start" problem for users. This paper introduces a novel framework for enhancing recommendation quality by transferring knowledge from data-rich verticals (e.g., restaurants at DoorDash) to data-sparse ones. We leverage Large Language Models (LLMs) to perform generative inference, synthesizing sparse, high-dimensional features that encapsulate user preferences across different verticals.
+  PDF: /assets/papers/GenAIECommerce2025/recsys2025-workshops_paper_206.pdf
+  code: NA
+  new_dataset: False
+
+- title: "Image-Seeking Intent Prediction for Cross-Device Product Search"
+  authors: "Mariya Hendriksen, Svitlana Vakulenko, Jordan Massiah, Gabriella Kazai, Emine Yilmaz"
+  abstract: >
+    Abstract to be provided by authors.
+  PDF: /assets/papers/GenAIECommerce2025/recsys2025-workshops_paper_209.pdf
+  code: NA
+  new_dataset: False
+
+- title: "Using item recommendations and LLMs in marketing email titles"
+  authors: "Deddy Jobson, Muktti Shukla, Phuong Dinh, Julio Christian Young, Nick Pittoni, Nina Chen, Ryan Ginstrom"
+  abstract: >
+    Abstract to be provided by authors.
+  PDF: /assets/papers/GenAIECommerce2025/recsys2025-workshops_paper_210.pdf
+  code: NA
+  new_dataset: False
+
+- title: "Knowledge-Augmented Relation Learning for Complementary Recommendation with Large Language Models"
+  authors: "Chihiro Yamasaki, Kai Sugahara, Kazushi Okamoto"
+  abstract: >
+    Abstract to be provided by authors.
+  PDF: /assets/papers/GenAIECommerce2025/recsys2025-workshops_paper_211.pdf
+  code: NA
+  new_dataset: False
+
+- title: "TOD-ProcBench: Benchmarking Complex Instruction-Following in Task-Oriented Dialogues"
+  authors: "Nanyun Peng, Narayanan Sadagopan, Zhou Yu"
+  abstract: >
+    Abstract to be provided by authors.
+  PDF: /assets/papers/GenAIECommerce2025/recsys2025-workshops_paper_212.pdf
+  code: NA
+  new_dataset: False
+
+- title: "Mind the Gap: Linguistic Divergence and Adaptation Strategies in Human-LLM Assistant vs. Human-Human Interactions"
+  authors: "Fulei Zhang, Zhou Yu"
+  abstract: >
+    Abstract to be provided by authors.
+  PDF: /assets/papers/GenAIECommerce2025/recsys2025-workshops_paper_213.pdf
+  code: NA
+  new_dataset: False
+
+- title: "CRMAgent: A Multi-Agent LLM System for E-Commerce CRM Message Template Generation"
+  authors: "Yinzhu Quan, Xinrui Li, Ying Chen"
+  abstract: >
+    Abstract to be provided by authors.
+  PDF: /assets/papers/GenAIECommerce2025/recsys2025-workshops_paper_214.pdf
+  code: NA
+  new_dataset: False
+
+- title: "Enhancing Related Searches Recommendation system by leveraging LLM Approaches"
+  authors: "Hung Nguyen, Jayanth Yetukuri, Phuong Ha Nguyen, Lizzie Liang, Ishita Khan, Zhe Wu"
+  abstract: >
+    Abstract to be provided by authors.
+  PDF: /assets/papers/GenAIECommerce2025/recsys2025-workshops_paper_216.pdf
   code: NA
   new_dataset: False 
