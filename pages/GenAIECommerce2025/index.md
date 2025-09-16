@@ -138,9 +138,11 @@ We have a half-day program on September 22 at ***Prague, Czech Republic***.
 | **2:10-2:25pm**    | **Paper Presentation: Image-Seeking Intent Prediction for Cross-Device Product Search** |
 | **2:25-2:40pm**    | **Paper Presentation: TOD-ProcBench: Benchmarking Operating Procedure Compliance in Task-Oriented Dialogues** |
 | **2:40-2:55pm**    | **Paper Presentation: Enhancing Related Searches Recommendation System by Leveraging LLM Approaches** |
+| **2:55-3:10pm**    | **Paper Presentation: Using item recommendations and LLMs in marketing email titles** |
+
 | **3:30-4:00pm**    | **Coffee Break** |
 | **4:00-4:40pm**    | **[Keynote by Chen Luo](#Chen+Luo) : From Search to Conversational Shopping with Generative AI** |
-| **4:40-5:00pm**    | **Closing Remarks** |
+| **4:40-5:30pm**    | **Poster Session** |
 
 <div class="small">
 {{ schedule | markdownify }}
