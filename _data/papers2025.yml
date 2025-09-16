@@ -1,5 +1,5 @@
 - title: "Mind the Gap: Bridging Behavioral Silos with LLMs in Multi-Vertical Recommendations"
-  authors: "Martin Wang, Sudeep Das"
+  authors: "Nimesh Sinha, Raghav Saboo, Martin Wang, Sudeep Das"
   abstract: >
     In multi-vertical e-commerce platforms like DoorDash, relatively newer product verticals such as grocery and retail present a significant opportunity for personalization innovation. A key challenge lies in solving the "cold start" problem for users. This paper introduces a novel framework for enhancing recommendation quality by transferring knowledge from data-rich verticals (e.g., restaurants at DoorDash) to data-sparse ones. We leverage Large Language Models (LLMs) to perform generative inference, synthesizing sparse, high-dimensional features that encapsulate user preferences across different verticals.
   PDF: /assets/papers/GenAIECommerce2025/recsys2025-workshops_paper_206.pdf
@@ -49,7 +49,7 @@
 - title: "CRMAgent: A Multi-Agent LLM System for E-Commerce CRM Message Template Generation"
   authors: "Yinzhu Quan, Xinrui Li, Ying Chen"
   abstract: >
-    Abstract to be provided by authors.
+    In e-commerce private-domain channels such as instant messaging and e-mail, merchants engage customers directly as part of their Customer Relationship Management (CRM) programmes to drive retention and conversion. While a few top performers excel at crafting outbound messages, most merchants struggle to write per- suasive copy because they lack both expertise and scalable tools. We introduce CRMAgent, a multi-agent system built on large language models (LLMs) that generates high-quality message templates and actionable writing guidance through three complementary modes. First, group-based learning enables the agent to learn from a merchant’s own top-performing messages within the same audience segment and rewrite low-performing ones. Second, retrieval-and- adaptation fetches templates that share the same audience segment and exhibit high similarity in voucher type and product category, learns their successful patterns, and adapts them to the current cam-paign. Third, a rule-based fallback provides a lightweight zero-shot rewrite when no suitable references are available. Extensive experi- ments show that CRMAgent consistently outperforms merchants’ original templates, delivering significant gains in both audience- match and marketing-effectiveness metrics.
   PDF: /assets/papers/GenAIECommerce2025/recsys2025-workshops_paper_214.pdf
   code: NA
   new_dataset: False
