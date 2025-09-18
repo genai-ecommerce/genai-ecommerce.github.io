@@ -105,7 +105,7 @@ organizers:
       alt: "Julian McAuley"
       excerpt: >
         **Julian McAuley**<br>
-        Walmart Global Tech
+        UC San Diego
       bio: >
         McAuley is a professor in CSE. His research focuses on the linguistic, temporal, and social dimensions of opinions and behavior in social networks and other online communities. He has harnessed data science tools to increase understanding the facets of people’s opinions, the processes that lead people to acquire taste for gourmet foods and beers, and even the visual dimensions of how they make fashion choices. He has gained academic, industry and media attention for his work analyzing massive volumes of user data from online social communities including Amazon, Yelp, Facebook and BeerAdvocate. His work includes using artificial intelligence in fashion choice, and data science in developing models that generate step-charts for the globally popular videogame, Dance Dance Revolution.
 
