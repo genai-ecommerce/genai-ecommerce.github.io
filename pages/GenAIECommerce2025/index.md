@@ -134,11 +134,11 @@ We have a half-day program on September 22 at ***Prague, Czech Republic***.
 | ----------------- | ------------ |
 | **1:30-1:40pm**    | **Registration and Welcome** |
 | **1:40-1:55pm**    | **Paper Presentation: Mind the Gap: Bridging Behavioral Silos with LLMs in Multi-Vertical Recommendations** |
-| **1:55-2:10pm**    | **Paper Presentation: CRMAgent: A Multi-Agent LLM System for E-Commerce CRM Message Template Generation** |
-| **2:10-2:25pm**    | **Paper Presentation: Image-Seeking Intent Prediction for Cross-Device Product Search** |
-| **2:25-2:40pm**    | **Paper Presentation: TOD-ProcBench: Benchmarking Operating Procedure Compliance in Task-Oriented Dialogues** |
-| **2:40-2:55pm**    | **Paper Presentation: Enhancing Related Searches Recommendation System by Leveraging LLM Approaches** |
-| **2:55-3:10pm**    | **Paper Presentation: Using item recommendations and LLMs in marketing email titles** |
+| **1:55-2:10pm**    | **Paper Presentation: Image-Seeking Intent Prediction for Cross-Device Product Search** |
+| **2:10-2:25pm**    | **Paper Presentation: Using item recommendations and LLMs in marketing email titles** |
+| **2:25-2:40pm**    | **Paper Presentation: Enhancing Related Searches Recommendation System by Leveraging LLM Approaches** |
+| **2:40-2:55pm**    | **Paper Presentation: TOD-ProcBench: Benchmarking Operating Procedure Compliance in Task-Oriented Dialogues** |
+| **2:55-3:10pm**    | **Paper Presentation: CRMAgent: A Multi-Agent LLM System for E-Commerce CRM Message Template Generation** |
 | **3:30-4:00pm**    | **Coffee Break** |
 | **4:00-4:40pm**    | **[Keynote by Chen Luo](#Chen+Luo) : From Search to Conversational Shopping with Generative AI** |
 | **4:40-5:30pm**    | **Poster Session** |
