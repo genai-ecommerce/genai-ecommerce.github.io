@@ -31,7 +31,7 @@ organizers:
       bio: >
         Mansi Mane is Staff Machine Learning Scientist at Search and Recommendation team in Walmart. She was the main organizer for the first and second workshop for Generative AI for E-commerce. She completed her Masters from Carnegie Mellon University in 2018. She currently focuses on research and development of machine learning algorithms for recommendations, search, marketing as well as content generation. Mansi was previously Applied Scientist at AWS where she led efforts for training of billion scale large language models from scratch. Her research interests include machine learning, multimodal LLMs pretraining, fine-tuning as well as in-context learning. She has published papers in ICML, RecSys, WWW conferences.
 
-    - image_path: /assets/images/GenAIECommerce2026/neeti_placeholder.jpeg
+    - image_path: /assets/images/GenAIECommerce2026/neeti.jpeg
       alt: "Neeti Narayan"
       excerpt: >
         **Neeti Narayan**<br>
