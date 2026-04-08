@@ -92,24 +92,18 @@ We welcome papers that leverage Agentic and Generative Artificial Intelligence (
 
 # Schedule
 
-We have a full-day program at ***Minneapolis, Minnesota, USA***.
+We have a half-day program at ***Minneapolis, Minnesota, USA***.
 
 | Time | Agenda |
 | ----------------- | ------------ |
-| **9:00–9:10 AM**    | **Registration and Welcome** |
-| **9:10–10:00 AM**   | **Keynote 1** |
-| **10:00–10:50 AM**  | **Keynote 2** |
-| **10:50–11:15 AM**  | **Coffee Break** |
-| **11:15–11:30 AM**  | **Paper Presentation 1** |
-| **11:30–11:45 AM**  | **Paper Presentation 2** |
-| **11:45 AM–12:35 PM** | **Keynote 3** |
-| **12:35–12:50 PM**  | **Paper Presentation 3** |
-| **12:50–1:50 PM**   | **Lunch Break** |
-| **1:50–2:40 PM**    | **Keynote 4** |
-| **2:40–3:45 PM**    | **Poster Session** |
-| **3:45–4:15 PM**    | **Coffee Break** |
-| **4:15–5:15 PM**    | **Panel Discussion** |
-| **5:15–5:30 PM**    | **Closing Remarks** |
+| **1:30–1:40 PM**    | **Registration and Welcome** |
+| **1:40–2:30 PM**    | **Keynote 1** |
+| **2:30–2:45 PM**    | **Paper Presentation 1** |
+| **2:45–3:00 PM**    | **Paper Presentation 2** |
+| **3:00–3:15 PM**    | **Paper Presentation 3** |
+| **3:15–3:45 PM**    | **Coffee Break** |
+| **3:45–4:35 PM**    | **Keynote 2** |
+| **4:35–5:30 PM**    | **Poster Session** |
 
 <div class="small">
 {{ schedule | markdownify }}
@@ -141,20 +135,4 @@ We have a full-day program at ***Minneapolis, Minnesota, USA***.
 # Organizers
 {% include feature_row id="organizers" %}
 
-# Program Committee
-<div class="small row-two-columns">
-<div class="column-half">
-<ul>
-{% for people in site.data.pc-members2026 limit:10 %}
-<li>{{ people | markdownify | remove: '<p>' | remove: '</p>' | strip }} </li>
-{% endfor %}
-</ul>
-</div>
-<div class="column-half">
-<ul>
-{% for people in site.data.pc-members2026 offset:10 %}
-<li>{{ people | markdownify | remove: '<p>' | remove: '</p>' | strip }} </li>
-{% endfor %}
-</ul>
-</div>
-</div> 
+ 
