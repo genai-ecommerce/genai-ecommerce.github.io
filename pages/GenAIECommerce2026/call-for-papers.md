@@ -39,7 +39,7 @@ We welcome papers that leverage Agentic and Generative Artificial Intelligence (
 - **Reviewer deadline:** August 7, 2026
 - **Author notification:** August 14, 2026
 - **Camera-ready version deadline:** August 28, 2026
-- **Workshop:** September 28 – October 2, 2026
+- **Workshop:** September 28, 2026 (13:30–17:30)
 
 ### Submission Instructions:
 - **Paper Length:** Authors should submit papers with up to 5 pages, excluding references and supplementary materials.

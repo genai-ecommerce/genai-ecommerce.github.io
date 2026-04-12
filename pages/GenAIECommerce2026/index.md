@@ -1,7 +1,7 @@
 ---
 permalink: /GenAIECommerce2026
 title: "Workshop on Agentic and Generative AI for E-Commerce <br>(2026)"
-excerpt: September 28 – October 2 <br> Minneapolis, Minnesota, USA <br> Held in conjunction with <a href="https://recsys.acm.org/recsys26/">RecSys 2026</a>
+excerpt: September 28, 2026 (13:30–17:30) <br> Minneapolis, Minnesota, USA <br> Held in conjunction with <a href="https://recsys.acm.org/recsys26/">RecSys 2026</a>
 browser-title: "GenAIECommerce 2026"
 masthead-title: "GenAIECommerce 2026"
 masthead-subtitle: "@RecSys 2026"
@@ -88,7 +88,7 @@ We welcome papers that leverage Agentic and Generative Artificial Intelligence (
 - **Reviewer deadline:** August 7, 2026
 - **Author notification:** August 14, 2026
 - **Camera-ready version deadline:** August 28, 2026
-- **Workshop:** September 28 – October 2, 2026
+- **Workshop:** September 28, 2026 (13:30–17:30)
 
 # Schedule
 
