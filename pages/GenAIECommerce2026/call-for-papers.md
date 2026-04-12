@@ -34,11 +34,11 @@ We welcome papers that leverage Agentic and Generative Artificial Intelligence (
 
 ### Important Dates
 
-- **Call for papers publicized:** April 2026
-- **Easychair portal open:** May 5, 2026
+- **Call for Papers publication:** April 21, 2026
 - **Paper submission deadline:** July 20, 2026
-- **Paper acceptance notification:** August 15, 2026
-- **Camera-ready manuscript deadline:** September 5, 2026
+- **Reviewer deadline:** August 7, 2026
+- **Author notification:** August 14, 2026
+- **Camera-ready version deadline:** August 28, 2026
 - **Workshop:** September 28 – October 2, 2026
 
 ### Submission Instructions:
