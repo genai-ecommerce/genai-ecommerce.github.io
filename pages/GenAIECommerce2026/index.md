@@ -79,7 +79,7 @@ The "Agentic and Generative AI for E-Commerce" workshop explores the rapidly evo
 E-commerce companies face challenges such as lack of quality content, subpar user experience, and sparse datasets. Generative and agentic AI offer significant potential to address these — from generating product content to deploying autonomous shopping assistants for end-to-end purchase workflows. Yet, scaling these technologies presents challenges including hallucination, excessive costs, latency, and ensuring safe autonomous agent behavior.
 
 # Call for Papers
-We welcome papers that leverage Agentic and Generative Artificial Intelligence (Gen AI) in e-commerce. Detailed topics are mentioned in [CFP](https://genai-ecommerce.github.io/GenAIECommerce2026/call-for-papers). Papers can be submitted at [Easychair](https://easychair.org/conferences?conf=recsys2026workshops).
+We welcome papers that leverage Agentic and Generative Artificial Intelligence (Gen AI) in e-commerce. Detailed topics are mentioned in [CFP](https://genai-ecommerce.github.io/GenAIECommerce2026/call-for-papers). Papers can be submitted at [Easychair](https://easychair.org/conferences?conf=recsys2026workshops). Accepted papers will be published via [CEUR-WS](https://ceur-ws.org/) as open-access workshop proceedings.
 
 ## Important Dates
 

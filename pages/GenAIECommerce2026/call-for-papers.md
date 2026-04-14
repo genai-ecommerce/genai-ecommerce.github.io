@@ -52,7 +52,7 @@ We welcome papers that leverage Agentic and Generative Artificial Intelligence (
 - **Q: Can I submit work currently under review elsewhere?**
   - **A:** Yes, as long as it conforms to the dual submission policies of both the workshop and the other venue.
 - **Q: Will the workshop papers be included in the main conference proceedings?**
-  - **A:** No, workshop papers will not be included in the main conference proceedings. However we would likely include it on ceur-ws.org.
+  - **A:** No, workshop papers will not be included in the main conference proceedings. Accepted papers will be published via [CEUR-WS](https://ceur-ws.org/) as open-access workshop proceedings.
 - **Q: How should I maintain anonymity if I'm from industry?**
   - **A:** While author identities should remain undisclosed, it is permissible to mention organizations that provided significant resources or data in the paper, as long as specific personal or team details are not revealed.
 - **Q: Can previously published papers be submitted to the workshop?**
