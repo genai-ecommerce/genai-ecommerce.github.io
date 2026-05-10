@@ -97,7 +97,7 @@ We have a half-day program at ***Minneapolis, Minnesota, USA***.
 | Time | Agenda |
 | ----------------- | ------------ |
 | **1:30–1:40 PM**    | **Registration and Welcome** |
-| **1:40–2:30 PM**    | **Keynote 1** |
+| **1:40–2:30 PM**    | **Keynote by Heng Liu: LLM Ranking in Facebook Verticals: from Content based LLM Ranking to Unified Generative & Ranking Recommender** |
 | **2:30–2:45 PM**    | **Paper Presentation 1** |
 | **2:45–3:00 PM**    | **Paper Presentation 2** |
 | **3:00–3:15 PM**    | **Paper Presentation 3** |
@@ -110,7 +110,14 @@ We have a half-day program at ***Minneapolis, Minnesota, USA***.
 </div>
 
 # Keynote Speakers
-*To be announced.*
+
+## Heng Liu
+
+**Title:** LLM Ranking in Facebook Verticals: from Content based LLM Ranking to Unified Generative & Ranking Recommender
+
+**Presenter:** Heng Liu
+
+**Description:** In this talk, I’ll start with content-based LLM ranking, focusing on how incorporating user preferences (explicit signals and inferred interests) can substantially improve relevance—especially in sparse or cold-start settings where behavioral data is limited. I’ll then transition to Project Reno, a next-generation recommender built around a single unified LLM backbone that operates in both ranking mode (high-precision scoring/reranking) and generative mode (high-recall discovery and next-item recommendation). I’ll cover key modeling ideas such as hierarchical discrete item representations, co-pretraining for item–text alignment, and downstream adaptation via multi-task SFT and RL, and share practical lessons and measured impact from deployments across Jobs, Search, and related verticals.
 
 # Accepted Papers
 <ul>
@@ -135,4 +142,22 @@ We have a half-day program at ***Minneapolis, Minnesota, USA***.
 # Organizers
 {% include feature_row id="organizers" %}
 
- 
+<script>
+  if (!window.workshopCollapsibleInitialized) {
+    window.workshopCollapsibleInitialized = true;
+    var coll = document.getElementsByClassName("collapsible");
+    var i;
+
+    for (i = 0; i < coll.length; i++) {
+      coll[i].addEventListener("click", function() {
+        this.classList.toggle("active");
+        var content = this.nextElementSibling;
+        if (content.style.display === "block") {
+          content.style.display = "none";
+        } else {
+          content.style.display = "block";
+        }
+      });
+    }
+  }
+</script>

@@ -42,9 +42,9 @@ We welcome papers that leverage Agentic and Generative Artificial Intelligence (
 - **Workshop:** September 28, 2026 (13:30–17:30)
 
 ### Submission Instructions:
-- **Paper Length:** Authors should submit papers with up to 5 pages, excluding references and supplementary materials.
+- **Paper Length:** CEUR-WS has minimum length requirements: regular papers must be at least 10 pages, and short papers must be at least 5 pages. See the [CEUR-WS publish rules](https://ceur-ws.org/HOWTOSUBMIT.html#PUBLISH-RULES).
 - **Submission Portal:** Please submit your papers via [Easychair](https://easychair.org/conferences?conf=recsys2026workshops). The workshop name would appear as "The Third Workshop on Agentic and Generative AI for E-commerce" on the submission portal.
-- **Formatting Guidelines:** Manuscripts should be submitted in PDF format, using the 2-column [ACM sigconf template](https://www.acm.org/publications/proceedings-template).
+- **Formatting Guidelines:** Manuscripts should be submitted in PDF format using the single-column [CEURART template](https://ceur-ws.org/HOWTOSUBMIT.html#CEURART).
 - **Anonymity Requirement:** Submissions must be fully anonymized to adhere to a double-blind review process.
 - **Dual Submission Policy:** The workshop welcomes both ongoing and unpublished work. Submissions under review or recently accepted at other venues are also eligible, provided they adhere to any overlapping publication policies.
 

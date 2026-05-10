@@ -33,6 +33,15 @@ $(document).ready(function() {
     $(".author__urls-wrapper button").toggleClass("open");
   });
 
+  // Toggle workshop abstract and bio sections.
+  if (!window.workshopCollapsibleInitialized) {
+    window.workshopCollapsibleInitialized = true;
+    $(".collapsible").on("click", function() {
+      $(this).toggleClass("active");
+      $(this).next(".btn-content").toggle();
+    });
+  }
+
   // Close search screen with Esc key
   $(document).keyup(function(e) {
     if (e.keyCode === 27) {
