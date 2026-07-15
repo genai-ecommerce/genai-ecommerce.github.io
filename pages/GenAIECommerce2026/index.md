@@ -97,13 +97,13 @@ We have a half-day program at ***Minneapolis, Minnesota, USA***.
 | Time | Agenda |
 | ----------------- | ------------ |
 | **1:30–1:40 PM**    | **Registration and Welcome** |
-| **1:40–2:30 PM**    | **Keynote by Heng Liu: LLM Ranking in Facebook Verticals: from Content based LLM Ranking to Unified Generative & Ranking Recommender** |
-| **2:30–2:45 PM**    | **Paper Presentation 1** |
-| **2:45–3:00 PM**    | **Paper Presentation 2** |
-| **3:00–3:15 PM**    | **Paper Presentation 3** |
-| **3:15–3:45 PM**    | **Coffee Break** |
-| **3:45–4:35 PM**    | **Keynote 2** |
-| **4:35–5:30 PM**    | **Poster Session** |
+| **1:40–2:20 PM**    | **[Keynote by Patrick Jordan](#patrick-jordan) (Microsoft): TBA** |
+| **2:20–3:00 PM**    | **[Keynote by Akshay Soni](#akshay-soni) (Shopify): Foundation Models for Agentic and Counterfactual Decision Support in E-Commerce** |
+| **3:00–3:30 PM**    | **Coffee Break** |
+| **3:30–4:10 PM**    | **[Keynote by Heng Liu](#heng-liu) (Meta): LLM Ranking in Facebook Verticals: from Content based LLM Ranking to Unified Generative & Ranking Recommender** |
+| **4:10–4:25 PM**    | **Paper Presentation 1** |
+| **4:25–4:40 PM**    | **Paper Presentation 2** |
+| **4:40–5:30 PM**    | **Poster Session** |
 
 <div class="small">
 {{ schedule | markdownify }}
@@ -111,11 +111,31 @@ We have a half-day program at ***Minneapolis, Minnesota, USA***.
 
 # Keynote Speakers
 
+## Patrick Jordan
+
+**Title:** TBA
+
+**Presenter:** Patrick Jordan, Microsoft
+
+**Description:** TBA
+
+## Akshay Soni
+
+**Title:** Foundation Models for Agentic and Counterfactual Decision Support in E-Commerce
+
+**Presenter:** Akshay Soni, Shopify
+
+**Description:** Most generative recommendation research models the consumer side, with sequences of a buyer's clicks, views, and purchases. We describe a foundation model for the merchant side of Shopify, built to support agents that plan and act on a shop's behalf.
+
+The modeled entity is a shop and the sequence is its full operating history, spanning high-frequency behavior (such as sessions and checkouts), pre-computed aggregates (such as GMV summaries), and sparse lifecycle events (such as subscription and churn changes). Catalog entities such as products and pages are tokenized into semantic IDs (SIDs) via residual-quantized autoencoding, compressing a high-cardinality space into a compact vocabulary shared across similar entities, which curbs sparsity and cold-start.
+
+A Hierarchical Sequential Transduction Unit (HSTU) backbone is trained autoregressively, combining next-token prediction with a multi-horizon future-token-set objective. The shared representation yields general-purpose merchant embeddings that feed a growing set of downstream applications, from recommendation to forecasting, and enable reasoning about the effect of interventions: a hypothetical action is inserted into a shop's sequence, and the model predicts the events that would follow, simulating the outcome of taking that action, such as adopting a paid-marketing channel. This grounds autonomous decisions in observed behavior and lets actions be evaluated before deployment.
+
 ## Heng Liu
 
 **Title:** LLM Ranking in Facebook Verticals: from Content based LLM Ranking to Unified Generative & Ranking Recommender
 
-**Presenter:** Heng Liu
+**Presenter:** Heng Liu, Meta
 
 **Description:** In this talk, I’ll start with content-based LLM ranking, focusing on how incorporating user preferences (explicit signals and inferred interests) can substantially improve relevance—especially in sparse or cold-start settings where behavioral data is limited. I’ll then transition to Project Reno, a next-generation recommender built around a single unified LLM backbone that operates in both ranking mode (high-precision scoring/reranking) and generative mode (high-recall discovery and next-item recommendation). I’ll cover key modeling ideas such as hierarchical discrete item representations, co-pretraining for item–text alignment, and downstream adaptation via multi-task SFT and RL, and share practical lessons and measured impact from deployments across Jobs, Search, and related verticals.
 
