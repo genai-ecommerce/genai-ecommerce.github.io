@@ -162,6 +162,9 @@ A Hierarchical Sequential Transduction Unit (HSTU) backbone is trained autoregre
 # Organizers
 {% include feature_row id="organizers" %}
 
+# Contact
+For any questions, please email [genai-ecommerce@googlegroups.com](mailto:genai-ecommerce@googlegroups.com).
+
 <script>
   if (!window.workshopCollapsibleInitialized) {
     window.workshopCollapsibleInitialized = true;

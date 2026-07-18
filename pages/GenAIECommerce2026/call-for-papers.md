@@ -57,6 +57,8 @@ We welcome papers that leverage Agentic and Generative Artificial Intelligence (
   - **A:** While author identities should remain undisclosed, it is permissible to mention organizations that provided significant resources or data in the paper, as long as specific personal or team details are not revealed.
 - **Q: Can previously published papers be submitted to the workshop?**
   - **A:** Yes, particularly if they are recent and highly relevant to the workshop's theme. However, consider any restrictions from the original publication venue.
+- **Q: Who can I contact with questions?**
+  - **A:** Please email [genai-ecommerce@googlegroups.com](mailto:genai-ecommerce@googlegroups.com).
 
 ### Organizers:
 - Mansi Mane, Walmart
