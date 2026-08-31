@@ -38,21 +38,29 @@ We welcome papers that leverage Agentic and Generative Artificial Intelligence (
 - **Paper submission deadline:** July 20, 2026
 - **Reviewer deadline:** August 7, 2026
 - **Author notification:** August 14, 2026
-- **Camera-ready version deadline:** August 28, 2026
+- **Camera-ready version deadline:** September 1, 2026
 - **Workshop:** September 28, 2026 (13:30–17:30)
 
 ### Submission Instructions:
-- **Paper Length:** CEUR-WS has minimum length requirements: regular papers must be at least 10 pages, and short papers must be at least 5 pages. See the [CEUR-WS publish rules](https://ceur-ws.org/HOWTOSUBMIT.html#PUBLISH-RULES).
+- **Paper Length:** Regular papers must be at least 10 pages, and short papers must be at least 5 pages, following the CEURART template guidelines. See the [CEUR-WS publish rules](https://ceur-ws.org/HOWTOSUBMIT.html#PUBLISH-RULES).
 - **Submission Portal:** Please submit your papers via [Easychair](https://easychair.org/conferences?conf=recsys2026workshops). The workshop name would appear as "The Third Workshop on Agentic and Generative AI for E-commerce" on the submission portal.
 - **Formatting Guidelines:** Manuscripts should be submitted in PDF format using the single-column [CEURART template](https://ceur-ws.org/HOWTOSUBMIT.html#CEURART).
 - **Anonymity Requirement:** Submissions must be fully anonymized to adhere to a double-blind review process.
 - **Dual Submission Policy:** The workshop welcomes both ongoing and unpublished work. Submissions under review or recently accepted at other venues are also eligible, provided they adhere to any overlapping publication policies.
 
+### Proceedings and Publication:
+This year the workshop proceedings will be published on this workshop website, as we did for the previous edition. We will not be publishing through [CEUR-WS](https://ceur-ws.org/) this year due to certain CEUR-WS eligibility criteria for the workshop. This does not change the recognition of accepted work as an accepted, peer-reviewed workshop paper. Authors are also welcome to post their paper on arXiv if they wish.
+
+For camera-ready submissions, please continue to use the single-column [CEURART template](https://ceur-ws.org/HOWTOSUBMIT.html#CEURART) that was used for submission — no change of template is needed. In addition, please:
+- Add your author names and affiliations.
+- Keep the default CEURART license footnote on the first page, which credits the authors under CC BY 4.0.
+- Check that your title, author names, and affiliations are final and correct.
+
 ### Frequently Asked Questions (FAQ):
 - **Q: Can I submit work currently under review elsewhere?**
   - **A:** Yes, as long as it conforms to the dual submission policies of both the workshop and the other venue.
 - **Q: Will the workshop papers be included in the main conference proceedings?**
-  - **A:** No, workshop papers will not be included in the main conference proceedings. Accepted papers will be published via [CEUR-WS](https://ceur-ws.org/) as open-access workshop proceedings.
+  - **A:** No, workshop papers will not be included in the main conference proceedings. Accepted papers will be published as open-access workshop proceedings on this workshop website, rather than via CEUR-WS this year (see [Proceedings and Publication](#proceedings-and-publication) above).
 - **Q: How should I maintain anonymity if I'm from industry?**
   - **A:** While author identities should remain undisclosed, it is permissible to mention organizations that provided significant resources or data in the paper, as long as specific personal or team details are not revealed.
 - **Q: Can previously published papers be submitted to the workshop?**

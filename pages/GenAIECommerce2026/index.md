@@ -79,7 +79,7 @@ The "Agentic and Generative AI for E-Commerce" workshop explores the rapidly evo
 E-commerce companies face challenges such as lack of quality content, subpar user experience, and sparse datasets. Generative and agentic AI offer significant potential to address these — from generating product content to deploying autonomous shopping assistants for end-to-end purchase workflows. Yet, scaling these technologies presents challenges including hallucination, excessive costs, latency, and ensuring safe autonomous agent behavior.
 
 # Call for Papers
-We welcome papers that leverage Agentic and Generative Artificial Intelligence (Gen AI) in e-commerce. Detailed topics are mentioned in [CFP](https://genai-ecommerce.github.io/GenAIECommerce2026/call-for-papers). Papers can be submitted at [Easychair](https://easychair.org/conferences?conf=recsys2026workshops). Accepted papers will be published via [CEUR-WS](https://ceur-ws.org/) as open-access workshop proceedings.
+We welcome papers that leverage Agentic and Generative Artificial Intelligence (Gen AI) in e-commerce. Detailed topics are mentioned in [CFP](https://genai-ecommerce.github.io/GenAIECommerce2026/call-for-papers). Papers can be submitted at [Easychair](https://easychair.org/conferences?conf=recsys2026workshops). Accepted papers will be published as open-access workshop proceedings on this workshop website (as we did for the previous edition), rather than via CEUR-WS this year. See the [CFP page](https://genai-ecommerce.github.io/GenAIECommerce2026/call-for-papers#proceedings-and-publication) for details.
 
 ## Important Dates
 
@@ -87,7 +87,7 @@ We welcome papers that leverage Agentic and Generative Artificial Intelligence (
 - **Paper submission deadline:** July 20, 2026
 - **Reviewer deadline:** August 7, 2026
 - **Author notification:** August 14, 2026
-- **Camera-ready version deadline:** August 28, 2026
+- **Camera-ready version deadline:** September 1, 2026
 - **Workshop:** September 28, 2026 (13:30–17:30)
 
 # Schedule
