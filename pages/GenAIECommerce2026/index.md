@@ -21,6 +21,62 @@ navigation:
   - title: "Organization"
     url: /GenAIECommerce2026#organizers
 
+keynote:
+
+    - image_path: /assets/images/GenAIECommerce2026/patrick.jpeg
+      alt: "Patrick Jordan"
+      title: "Patrick Jordan"
+      excerpt: |
+        ***Microsoft*** <br>
+        **When Everyone Has an Agent: From Better Decisions to Better Markets**
+
+      abstract: >
+        AI agents are rapidly becoming capable of searching, recommending, negotiating, and transacting on behalf of users and businesses. But something fundamental changes when these agents interact with other independently motivated agents: the problem shifts from making good decisions to making good decisions in a strategic environment.
+
+        This talk explores that transition through the lens of recommendation games. When a user agent solicits recommendations from multiple competing agents, each recommendation is no longer simply a prediction of what the user wants—it is also a strategic action shaped by what other agents recommend and by the rules governing selection and reward.
+
+        More broadly, this talk considers a shift from decision theory to game theory and mechanism design for agentic commerce at scale.
+
+        The central challenge is not simply to build smarter agents. It is to design and evaluate the environments in which they interact—so that useful behavior becomes strategically advantageous.
+
+      spaces: true
+
+    - image_path: /assets/images/GenAIECommerce2026/akshay.jpeg
+      alt: "Akshay Soni"
+      title: "Akshay Soni"
+      excerpt: |
+        ***Shopify*** <br>
+        **Foundation Models for Agentic and Counterfactual Decision Support in E-Commerce**
+
+      abstract: >
+        Most generative recommendation research models the consumer side, with sequences of a buyer's clicks, views, and purchases. We describe a foundation model for the merchant side of Shopify, built to support agents that plan and act on a shop's behalf.
+
+        The modeled entity is a shop and the sequence is its full operating history, spanning high-frequency behavior (such as sessions and checkouts), pre-computed aggregates (such as GMV summaries), and sparse lifecycle events (such as subscription and churn changes). Catalog entities such as products and pages are tokenized into semantic IDs (SIDs) via residual-quantized autoencoding, compressing a high-cardinality space into a compact vocabulary shared across similar entities, which curbs sparsity and cold-start.
+
+        A Hierarchical Sequential Transduction Unit (HSTU) backbone is trained autoregressively, combining next-token prediction with a multi-horizon future-token-set objective. The shared representation yields general-purpose merchant embeddings that feed a growing set of downstream applications, from recommendation to forecasting, and enable reasoning about the effect of interventions: a hypothetical action is inserted into a shop's sequence, and the model predicts the events that would follow, simulating the outcome of taking that action, such as adopting a paid-marketing channel. This grounds autonomous decisions in observed behavior and lets actions be evaluated before deployment.
+
+      spaces: true
+
+    - image_path: /assets/images/GenAIECommerce2026/shengbo.jpeg
+      alt: "Shengbo Guo"
+      title: "Shengbo Guo"
+      excerpt: |
+        ***Meta*** <br>
+        **LLM Ranking in Facebook Verticals: from Content-Based LLM Ranking to a Unified Generative & Ranking Recommender**
+
+      abstract: >
+        Large language models are transforming recommendation across Facebook's verticals by bringing deep semantic understanding — of items, of user intent, and of preference — directly into ranking. That understanding is most powerful precisely where it matters most: on sparse, cold-start, and 0→1 surfaces, where reasoning over content and user preferences unlocks relevance that behavioral signal alone cannot reach. This keynote traces how we put that capability into production, following an arc from content-based LLM ranking to a single unified generative-and-ranking recommender, grounded in production systems and live experiments jointly built across verticals: Marketplace Jobs and Facebook Groups. Presented in conjunction with Heng Liu (Meta) and Shubhojeet Sarkar (Meta).
+
+        Part 1 — Ranking in Marketplace Jobs. We first follow one vertical end to end. Jobs began with an early content-based LLM ranker that validated the thesis on a cold-start surface — scoring openings from their content rather than interaction history and delivering large relevance and engagement lifts where behavioral signal was thin. It then advanced to the Jobs Subtab SID Ranker, hierarchical discrete item representations (an RQ codebook aligned to the LLM via knowledge-augmented continued pretraining) that substantially compress each item by roughly an order of magnitude, with downstream adaptation via multi-task SFT and reinforcement learning. It turned a chronological feed into a ranking-driven surface, substantially improving offline ranking quality over the prior text ranker and driving incremental engaged-DAU gains.
+
+        Part 2 — LLM ranking and recommendation in Facebook Groups. We then turn to Groups, where the same content-first philosophy meets a different surface. The Forum ranker — the first LLM ranker deployed in Facebook Groups — brought content-based ranking to community recommendation: a compact distilled student, trained with a multi-teacher agreement scheme and serving continuous relevance scores via Token-Probability Normalization (score = P(Yes)/(P(Yes)+P(No))), lifting relevance substantially while surfacing personally meaningful posts for users with sparse history. Building on it, early Generative-Recommender (GR) experiments — currently over the text modality — extend the approach from pointwise ranking toward generative retrieval and next-item prediction for community and content discovery.
+
+        Part 3 — Toward a unified generative & ranking recommender. Across both verticals the trajectory converges on one question: can a single LLM backbone both rank with high precision and generate candidates with high recall, collapsing the traditional retrieval/ranking split? We describe unified architecture, the SID-based architecture that ties ranking and generation into one model across Jobs and Groups and points toward agentic recommendation.
+
+        Lessons and outlook. We close with practical lessons from taking LLM rankers from prototype to production — how item and Semantic-ID representations, teacher–student distillation, and the choice between pointwise-ranking and generative training objectives shape relevance, with serving efficiency treated as a co-design constraint rather than the main story. We end on where this is heading: extending today's text-only generative results toward multimodal item understanding and, ultimately, agentic recommendation flows that plan and act on a user's behalf — the trajectory that e-commerce and content platforms increasingly share, from ranking what exists to generating what fits, within one unified model.
+
+      spaces: true
+
 organizers:
 
     - image_path: /assets/images/GenAIECommerce2026/Mansi.jpeg
@@ -111,47 +167,7 @@ We have a half-day program at ***Minneapolis, Minnesota, USA***.
 
 # Keynote Speakers
 
-## Patrick Jordan
-
-**Title:** When Everyone Has an Agent: From Better Decisions to Better Markets
-
-**Presenter:** Patrick Jordan, Microsoft
-
-**Description:** AI agents are rapidly becoming capable of searching, recommending, negotiating, and transacting on behalf of users and businesses. But something fundamental changes when these agents interact with other independently motivated agents: the problem shifts from making good decisions to making good decisions in a strategic environment.
-
-This talk explores that transition through the lens of recommendation games. When a user agent solicits recommendations from multiple competing agents, each recommendation is no longer simply a prediction of what the user wants—it is also a strategic action shaped by what other agents recommend and by the rules governing selection and reward.
-
-More broadly, this talk considers a shift from decision theory to game theory and mechanism design for agentic commerce at scale.
-
-The central challenge is not simply to build smarter agents. It is to design and evaluate the environments in which they interact—so that useful behavior becomes strategically advantageous.
-
-## Akshay Soni
-
-**Title:** Foundation Models for Agentic and Counterfactual Decision Support in E-Commerce
-
-**Presenter:** Akshay Soni, Shopify
-
-**Description:** Most generative recommendation research models the consumer side, with sequences of a buyer's clicks, views, and purchases. We describe a foundation model for the merchant side of Shopify, built to support agents that plan and act on a shop's behalf.
-
-The modeled entity is a shop and the sequence is its full operating history, spanning high-frequency behavior (such as sessions and checkouts), pre-computed aggregates (such as GMV summaries), and sparse lifecycle events (such as subscription and churn changes). Catalog entities such as products and pages are tokenized into semantic IDs (SIDs) via residual-quantized autoencoding, compressing a high-cardinality space into a compact vocabulary shared across similar entities, which curbs sparsity and cold-start.
-
-A Hierarchical Sequential Transduction Unit (HSTU) backbone is trained autoregressively, combining next-token prediction with a multi-horizon future-token-set objective. The shared representation yields general-purpose merchant embeddings that feed a growing set of downstream applications, from recommendation to forecasting, and enable reasoning about the effect of interventions: a hypothetical action is inserted into a shop's sequence, and the model predicts the events that would follow, simulating the outcome of taking that action, such as adopting a paid-marketing channel. This grounds autonomous decisions in observed behavior and lets actions be evaluated before deployment.
-
-## Shengbo Guo
-
-**Title:** LLM Ranking in Facebook Verticals: from Content-Based LLM Ranking to a Unified Generative & Ranking Recommender
-
-**Presenter:** Shengbo Guo, Meta (in conjunction with Heng Liu (Meta), Shubhojeet Sarkar (Meta))
-
-**Description:** Large language models are transforming recommendation across Facebook's verticals by bringing deep semantic understanding — of items, of user intent, and of preference — directly into ranking. That understanding is most powerful precisely where it matters most: on sparse, cold-start, and 0→1 surfaces, where reasoning over content and user preferences unlocks relevance that behavioral signal alone cannot reach. This keynote traces how we put that capability into production, following an arc from content-based LLM ranking to a single unified generative-and-ranking recommender, grounded in production systems and live experiments jointly built across verticals: Marketplace Jobs and Facebook Groups.
-
-Part 1 — Ranking in Marketplace Jobs. We first follow one vertical end to end. Jobs began with an early content-based LLM ranker that validated the thesis on a cold-start surface — scoring openings from their content rather than interaction history and delivering large relevance and engagement lifts where behavioral signal was thin. It then advanced to the Jobs Subtab SID Ranker, hierarchical discrete item representations (an RQ codebook aligned to the LLM via knowledge-augmented continued pretraining) that substantially compress each item by roughly an order of magnitude, with downstream adaptation via multi-task SFT and reinforcement learning. It turned a chronological feed into a ranking-driven surface, substantially improving offline ranking quality over the prior text ranker and driving incremental engaged-DAU gains.
-
-Part 2 — LLM ranking and recommendation in Facebook Groups. We then turn to Groups, where the same content-first philosophy meets a different surface. The Forum ranker — the first LLM ranker deployed in Facebook Groups — brought content-based ranking to community recommendation: a compact distilled student, trained with a multi-teacher agreement scheme and serving continuous relevance scores via Token-Probability Normalization (score = P(Yes)/(P(Yes)+P(No))), lifting relevance substantially while surfacing personally meaningful posts for users with sparse history. Building on it, early Generative-Recommender (GR) experiments — currently over the text modality — extend the approach from pointwise ranking toward generative retrieval and next-item prediction for community and content discovery.
-
-Part 3 — Toward a unified generative & ranking recommender. Across both verticals the trajectory converges on one question: can a single LLM backbone both rank with high precision and generate candidates with high recall, collapsing the traditional retrieval/ranking split? We describe unified architecture, the SID-based architecture that ties ranking and generation into one model across Jobs and Groups and points toward agentic recommendation.
-
-Lessons and outlook. We close with practical lessons from taking LLM rankers from prototype to production — how item and Semantic-ID representations, teacher–student distillation, and the choice between pointwise-ranking and generative training objectives shape relevance, with serving efficiency treated as a co-design constraint rather than the main story. We end on where this is heading: extending today's text-only generative results toward multimodal item understanding and, ultimately, agentic recommendation flows that plan and act on a user's behalf — the trajectory that e-commerce and content platforms increasingly share, from ranking what exists to generating what fits, within one unified model.
+{% include feature_row id="keynote" type="left" %}
 
 # Accepted Papers
 <ul>
