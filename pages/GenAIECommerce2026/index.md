@@ -23,7 +23,7 @@ navigation:
 
 keynote:
 
-    - image_path: /assets/images/GenAIECommerce2026/patrick.jpeg
+    - image_path: /assets/images/GenAIECommerce2026/patrick.png
       alt: "Patrick Jordan"
       title: "Patrick Jordan"
       excerpt: |
@@ -41,7 +41,7 @@ keynote:
 
       spaces: true
 
-    - image_path: /assets/images/GenAIECommerce2026/akshay.jpeg
+    - image_path: /assets/images/GenAIECommerce2026/akshay.png
       alt: "Akshay Soni"
       title: "Akshay Soni"
       excerpt: |
@@ -57,7 +57,7 @@ keynote:
 
       spaces: true
 
-    - image_path: /assets/images/GenAIECommerce2026/shengbo.jpeg
+    - image_path: /assets/images/GenAIECommerce2026/shengbo.png
       alt: "Shengbo Guo"
       title: "Shengbo Guo"
       excerpt: |
