@@ -97,7 +97,7 @@ We have a half-day program at ***Minneapolis, Minnesota, USA***.
 | Time | Agenda |
 | ----------------- | ------------ |
 | **1:30–1:40 PM**    | **Registration and Welcome** |
-| **1:40–2:20 PM**    | **[Keynote by Patrick Jordan](#patrick-jordan) (Microsoft): TBA** |
+| **1:40–2:20 PM**    | **[Keynote by Patrick Jordan](#patrick-jordan) (Microsoft): When Everyone Has an Agent: From Better Decisions to Better Markets** |
 | **2:20–3:00 PM**    | **[Keynote by Akshay Soni](#akshay-soni) (Shopify): Foundation Models for Agentic and Counterfactual Decision Support in E-Commerce** |
 | **3:00–3:30 PM**    | **Coffee Break** |
 | **3:30–4:10 PM**    | **[Keynote by Shengbo Guo](#shengbo-guo) (Meta): LLM Ranking in Facebook Verticals: from Content-Based LLM Ranking to a Unified Generative & Ranking Recommender** |
@@ -113,11 +113,17 @@ We have a half-day program at ***Minneapolis, Minnesota, USA***.
 
 ## Patrick Jordan
 
-**Title:** TBA
+**Title:** When Everyone Has an Agent: From Better Decisions to Better Markets
 
 **Presenter:** Patrick Jordan, Microsoft
 
-**Description:** TBA
+**Description:** AI agents are rapidly becoming capable of searching, recommending, negotiating, and transacting on behalf of users and businesses. But something fundamental changes when these agents interact with other independently motivated agents: the problem shifts from making good decisions to making good decisions in a strategic environment.
+
+This talk explores that transition through the lens of recommendation games. When a user agent solicits recommendations from multiple competing agents, each recommendation is no longer simply a prediction of what the user wants—it is also a strategic action shaped by what other agents recommend and by the rules governing selection and reward.
+
+More broadly, this talk considers a shift from decision theory to game theory and mechanism design for agentic commerce at scale.
+
+The central challenge is not simply to build smarter agents. It is to design and evaluate the environments in which they interact—so that useful behavior becomes strategically advantageous.
 
 ## Akshay Soni
 
