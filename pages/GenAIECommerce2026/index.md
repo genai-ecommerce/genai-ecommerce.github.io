@@ -157,8 +157,8 @@ We have a half-day program at ***Minneapolis, Minnesota, USA***.
 | **2:20–3:00 PM**    | **[Keynote by Akshay Soni](#akshay-soni) (Shopify): Foundation Models for Agentic and Counterfactual Decision Support in E-Commerce** |
 | **3:00–3:30 PM**    | **Coffee Break** |
 | **3:30–4:10 PM**    | **[Keynote by Shengbo Guo](#shengbo-guo) (Meta): LLM Ranking in Facebook Verticals: from Content-Based LLM Ranking to a Unified Generative & Ranking Recommender** |
-| **4:10–4:25 PM**    | **Paper Presentation 1** |
-| **4:25–4:40 PM**    | **Paper Presentation 2** |
+| **4:10–4:25 PM**    | **Paper Presentation 1: The Disconnect Between Better Descriptive Reasoning Trace Quality and Recommendation Effectiveness — Gustavo Penha** |
+| **4:25–4:40 PM**    | **Paper Presentation 2: Ad Insertion in LLM-Generated Responses — Shengwei Xu** |
 | **4:40–5:30 PM**    | **Poster Session** |
 
 <div class="small">
